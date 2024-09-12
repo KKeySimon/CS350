@@ -1,0 +1,4419 @@
+Test (2C): basic persistence ...
+2 is leader!!!!
+2 thinks it is the leader! with term... 1
+11 receieved in 2
+true success from 0
+true success from 1
+leader 2 committing: 1
+2 thinks it is the leader! with term... 1
+follower 0 is comitting to 0 because of 2
+true success from 0
+follower 1 is comitting to 0 because of 2
+true success from 1
+2 thinks it is the leader! with term... 1
+1 is leader!!!!
+1 thinks it is the leader! with term... 2
+12 receieved in 1
+true success from 0
+true success from 2
+leader 1 committing: 1
+leader 1 committing: 2
+1 thinks it is the leader! with term... 2
+follower 0 is comitting to 0 because of 1
+follower 0 is comitting to 1 because of 1
+true success from 0
+follower 2 is comitting to 0 because of 1
+follower 2 is comitting to 1 because of 1
+true success from 2
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+1 thinks it is the leader! with term... 2
+heartbeat checked in 0
+0 is leader!!!!
+0 thinks it is the leader! with term... 3
+13 receieved in 0
+follower 1 is comitting to 0 because of 0
+follower 1 is comitting to 1 because of 0
+true success from 1
+true success from 2
+leader 0 committing: 3
+0 thinks it is the leader! with term... 3
+follower 1 is comitting to 2 because of 0
+true success from 1
+follower 2 is comitting to 2 because of 0
+true success from 2
+0 thinks it is the leader! with term... 3
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 3
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 3
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 3
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 3
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 3
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 3
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 3
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 3
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+heartbeat checked in 2
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+0 thinks it is the leader! with term... 3
+2 is leader!!!!
+0 thinks it is the leader! with term... 3
+2 thinks it is the leader! with term... 4
+14 receieved in 2
+true success from 1
+leader 2 committing: 4
+0 thinks it is the leader! with term... 3
+2 thinks it is the leader! with term... 4
+follower 1 is comitting to 3 because of 2
+true success from 1
+2 thinks it is the leader! with term... 4
+follower 0 is comitting to 0 because of 2
+follower 0 is comitting to 1 because of 2
+follower 0 is comitting to 2 because of 2
+follower 0 is comitting to 3 because of 2
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+true success from 0
+true success from 1
+2 thinks it is the leader! with term... 4
+15 receieved in 2
+true success from 1
+leader 2 committing: 5
+2 thinks it is the leader! with term... 4
+follower 1 is comitting to 4 because of 2
+true success from 1
+2 thinks it is the leader! with term... 4
+16 receieved in 2
+follower 0 is comitting to 0 because of 2
+follower 0 is comitting to 1 because of 2
+follower 0 is comitting to 2 because of 2
+follower 0 is comitting to 3 because of 2
+follower 0 is comitting to 4 because of 2
+true success from 0
+true success from 1
+leader 2 committing: 6
+2 thinks it is the leader! with term... 4
+follower 0 is comitting to 5 because of 2
+true success from 0
+follower 1 is comitting to 5 because of 2
+true success from 1
+  ... Passed --  17.8  3  163   43935    6
+Test (2C): more persistence ...
+sending 11
+2 thinks it is the leader! with term... 4
+heartbeat checked in 1
+heartbeat checked in 0
+1 is leader!!!!
+11 receieved in 1
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+leader 1 committing: 1
+1 thinks it is the leader! with term... 1
+follower 0 is comitting to 0 because of 1
+true success from 0
+follower 2 is comitting to 0 because of 1
+true success from 2
+follower 3 is comitting to 0 because of 1
+true success from 3
+follower 4 is comitting to 0 because of 1
+true success from 4
+heartbeat checked in 0
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+heartbeat checked in 4
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 2
+true success from 3
+true success from 4
+1 thinks it is the leader! with term... 1
+disconnecting 2 3
+sending 12
+12 receieved in 1
+true success from 0
+true success from 4
+1 thinks it is the leader! with term... 1
+true success from 0
+true success from 4
+leader 1 committing: 2
+1 thinks it is the leader! with term... 1
+follower 0 is comitting to 1 because of 1
+true success from 0
+follower 4 is comitting to 1 because of 1
+true success from 4
+disconnecting 1 4 0
+reconnecting 2 3 with applier
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+reconnecting 4 with applier
+sending 13
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+heartbeat checked in 4
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+1 thinks it is the leader! with term... 1
+4 is leader!!!!
+13 receieved in 4
+4 thinks it is the leader! with term... 5
+false success from 2
+false success from 3
+1 thinks it is the leader! with term... 1
+4 thinks it is the leader! with term... 5
+true success from 2
+true success from 3
+leader 4 committing: 1
+leader 4 committing: 2
+leader 4 committing: 3
+heartbeat checked in 2
+4 thinks it is the leader! with term... 5
+follower 2 is comitting to 0 because of 4
+follower 2 is comitting to 1 because of 4
+follower 2 is comitting to 2 because of 4
+true success from 2
+follower 3 is comitting to 0 because of 4
+follower 3 is comitting to 1 because of 4
+follower 3 is comitting to 2 because of 4
+true success from 3
+1 thinks it is the leader! with term... 1
+reconnecting 0 1 with applier
+sending 14
+14 receieved in 1
+4 thinks it is the leader! with term... 5
+follower 0 is comitting to 2 because of 4
+true success from 0
+follower 1 is comitting to 2 because of 4
+true success from 1
+true success from 2
+true success from 3
+true success from 2
+true success from 3
+4 thinks it is the leader! with term... 5
+true success from 4
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+heartbeat checked in 1
+heartbeat checked in 2
+3 is leader!!!!
+heartbeat checked in 0
+3 thinks it is the leader! with term... 6
+14 receieved in 3
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+leader 3 committing: 4
+3 thinks it is the leader! with term... 6
+follower 0 is comitting to 3 because of 3
+true success from 0
+follower 1 is comitting to 3 because of 3
+true success from 1
+follower 2 is comitting to 3 because of 3
+true success from 2
+follower 4 is comitting to 3 because of 3
+true success from 4
+3 thinks it is the leader! with term... 6
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 6
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 6
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 6
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 6
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 6
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 6
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 6
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 6
+disconnecting 4 0
+sending 15
+15 receieved in 3
+true success from 1
+true success from 2
+leader 3 committing: 5
+3 thinks it is the leader! with term... 6
+follower 1 is comitting to 4 because of 3
+true success from 1
+follower 2 is comitting to 4 because of 3
+true success from 2
+disconnecting 3 1 2
+reconnecting 4 0 with applier
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+heartbeat checked in 2
+3 thinks it is the leader! with term... 6
+reconnecting 1 with applier
+sending 16
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+heartbeat checked in 1
+3 thinks it is the leader! with term... 6
+heartbeat checked in 0
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+heartbeat checked in 4
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+3 thinks it is the leader! with term... 6
+1 is leader!!!!
+3 thinks it is the leader! with term... 6
+1 thinks it is the leader! with term... 9
+16 receieved in 1
+false success from 0
+false success from 4
+1 thinks it is the leader! with term... 9
+true success from 0
+3 thinks it is the leader! with term... 6
+true success from 4
+leader 1 committing: 1
+leader 1 committing: 2
+leader 1 committing: 3
+leader 1 committing: 4
+leader 1 committing: 5
+leader 1 committing: 6
+1 thinks it is the leader! with term... 9
+follower 0 is comitting to 0 because of 1
+follower 0 is comitting to 1 because of 1
+follower 0 is comitting to 2 because of 1
+follower 0 is comitting to 3 because of 1
+follower 0 is comitting to 4 because of 1
+follower 0 is comitting to 5 because of 1
+true success from 0
+3 thinks it is the leader! with term... 6
+follower 4 is comitting to 0 because of 1
+follower 4 is comitting to 1 because of 1
+follower 4 is comitting to 2 because of 1
+follower 4 is comitting to 3 because of 1
+follower 4 is comitting to 4 because of 1
+follower 4 is comitting to 5 because of 1
+true success from 4
+reconnecting 2 3 with applier
+sending 17
+1 thinks it is the leader! with term... 9
+17 receieved in 1
+false success from 1
+true success from 0
+follower 2 is comitting to 5 because of 1
+true success from 2
+follower 3 is comitting to 5 because of 1
+true success from 3
+true success from 4
+leader 1 committing: 7
+heartbeat checked in 4
+heartbeat checked in 0
+heartbeat checked in 3
+4 is leader!!!!
+4 thinks it is the leader! with term... 12
+17 receieved in 4
+false success from 0
+true success from 1
+true success from 2
+true success from 3
+leader 4 committing: 7
+leader 4 committing: 8
+4 thinks it is the leader! with term... 12
+follower 0 is comitting to 6 because of 4
+follower 0 is comitting to 7 because of 4
+true success from 0
+follower 1 is comitting to 7 because of 4
+true success from 1
+follower 2 is comitting to 6 because of 4
+follower 2 is comitting to 7 because of 4
+true success from 2
+follower 3 is comitting to 6 because of 4
+follower 3 is comitting to 7 because of 4
+true success from 3
+4 thinks it is the leader! with term... 12
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+4 thinks it is the leader! with term... 12
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+4 thinks it is the leader! with term... 12
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+4 thinks it is the leader! with term... 12
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+4 thinks it is the leader! with term... 12
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+4 thinks it is the leader! with term... 12
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+4 thinks it is the leader! with term... 12
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+4 thinks it is the leader! with term... 12
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+4 thinks it is the leader! with term... 12
+disconnecting 0 1
+sending 18
+18 receieved in 4
+true success from 2
+true success from 3
+leader 4 committing: 9
+4 thinks it is the leader! with term... 12
+follower 2 is comitting to 8 because of 4
+true success from 2
+follower 3 is comitting to 8 because of 4
+true success from 3
+disconnecting 4 2 3
+reconnecting 0 1 with applier
+heartbeat checked in 2
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+reconnecting 2 with applier
+sending 19
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+heartbeat checked in 3
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+4 thinks it is the leader! with term... 12
+2 is leader!!!!
+2 thinks it is the leader! with term... 13
+19 receieved in 2
+false success from 0
+false success from 1
+4 thinks it is the leader! with term... 12
+2 thinks it is the leader! with term... 13
+true success from 0
+true success from 1
+leader 2 committing: 1
+leader 2 committing: 2
+leader 2 committing: 3
+leader 2 committing: 4
+leader 2 committing: 5
+leader 2 committing: 6
+leader 2 committing: 7
+leader 2 committing: 8
+leader 2 committing: 9
+leader 2 committing: 10
+2 thinks it is the leader! with term... 13
+follower 0 is comitting to 0 because of 2
+follower 0 is comitting to 1 because of 2
+follower 0 is comitting to 2 because of 2
+follower 0 is comitting to 3 because of 2
+follower 0 is comitting to 4 because of 2
+follower 0 is comitting to 5 because of 2
+follower 0 is comitting to 6 because of 2
+follower 0 is comitting to 7 because of 2
+follower 0 is comitting to 8 because of 2
+follower 0 is comitting to 9 because of 2
+true success from 0
+follower 1 is comitting to 0 because of 2
+follower 1 is comitting to 1 because of 2
+follower 1 is comitting to 2 because of 2
+follower 1 is comitting to 3 because of 2
+follower 1 is comitting to 4 because of 2
+follower 1 is comitting to 5 because of 2
+follower 1 is comitting to 6 because of 2
+follower 1 is comitting to 7 because of 2
+follower 1 is comitting to 8 because of 2
+follower 1 is comitting to 9 because of 2
+true success from 1
+reconnecting 3 4 with applier
+sending 20
+20 receieved in 2
+false success from 2
+follower 4 is comitting to 9 because of 2
+true success from 4
+heartbeat checked in 4
+0 is leader!!!!
+0 thinks it is the leader! with term... 14
+20 receieved in 0
+true success from 1
+true success from 2
+false success from 3
+true success from 4
+leader 0 committing: 11
+0 thinks it is the leader! with term... 14
+follower 1 is comitting to 10 because of 0
+true success from 1
+follower 2 is comitting to 10 because of 0
+true success from 2
+follower 3 is comitting to 9 because of 0
+follower 3 is comitting to 10 because of 0
+true success from 3
+follower 4 is comitting to 10 because of 0
+true success from 4
+0 thinks it is the leader! with term... 14
+true success from 1
+true success from 2
+true success from 3
+true success from 4
+0 thinks it is the leader! with term... 14
+true success from 1
+true success from 2
+true success from 3
+true success from 4
+0 thinks it is the leader! with term... 14
+true success from 1
+true success from 2
+true success from 3
+true success from 4
+0 thinks it is the leader! with term... 14
+true success from 1
+true success from 2
+true success from 3
+true success from 4
+0 thinks it is the leader! with term... 14
+true success from 1
+true success from 2
+true success from 3
+true success from 4
+0 thinks it is the leader! with term... 14
+true success from 1
+true success from 2
+true success from 3
+true success from 4
+0 thinks it is the leader! with term... 14
+true success from 1
+true success from 2
+true success from 3
+true success from 4
+0 thinks it is the leader! with term... 14
+true success from 1
+true success from 2
+true success from 3
+true success from 4
+0 thinks it is the leader! with term... 14
+disconnecting 1 2
+sending 21
+21 receieved in 0
+true success from 3
+true success from 4
+leader 0 committing: 12
+0 thinks it is the leader! with term... 14
+follower 3 is comitting to 11 because of 0
+true success from 3
+follower 4 is comitting to 11 because of 0
+true success from 4
+disconnecting 0 3 4
+reconnecting 1 2 with applier
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+reconnecting 3 with applier
+sending 22
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+heartbeat checked in 1
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+0 thinks it is the leader! with term... 14
+3 is leader!!!!
+3 thinks it is the leader! with term... 16
+22 receieved in 3
+0 thinks it is the leader! with term... 14
+false success from 1
+false success from 2
+3 thinks it is the leader! with term... 16
+true success from 1
+true success from 2
+leader 3 committing: 1
+leader 3 committing: 2
+leader 3 committing: 3
+leader 3 committing: 4
+leader 3 committing: 5
+leader 3 committing: 6
+leader 3 committing: 7
+leader 3 committing: 8
+leader 3 committing: 9
+leader 3 committing: 10
+leader 3 committing: 11
+leader 3 committing: 12
+leader 3 committing: 13
+3 thinks it is the leader! with term... 16
+follower 1 is comitting to 0 because of 3
+follower 1 is comitting to 1 because of 3
+follower 1 is comitting to 2 because of 3
+follower 1 is comitting to 3 because of 3
+follower 1 is comitting to 4 because of 3
+follower 1 is comitting to 5 because of 3
+follower 1 is comitting to 6 because of 3
+follower 1 is comitting to 7 because of 3
+follower 1 is comitting to 8 because of 3
+follower 1 is comitting to 9 because of 3
+follower 1 is comitting to 10 because of 3
+follower 1 is comitting to 11 because of 3
+follower 1 is comitting to 12 because of 3
+true success from 1
+follower 2 is comitting to 0 because of 3
+follower 2 is comitting to 1 because of 3
+follower 2 is comitting to 2 because of 3
+follower 2 is comitting to 3 because of 3
+follower 2 is comitting to 4 because of 3
+follower 2 is comitting to 5 because of 3
+follower 2 is comitting to 6 because of 3
+follower 2 is comitting to 7 because of 3
+follower 2 is comitting to 8 because of 3
+follower 2 is comitting to 9 because of 3
+follower 2 is comitting to 10 because of 3
+follower 2 is comitting to 11 because of 3
+follower 2 is comitting to 12 because of 3
+true success from 2
+0 thinks it is the leader! with term... 14
+reconnecting 4 0 with applier
+sending 23
+23 receieved in 3
+false success from 1
+3 thinks it is the leader! with term... 16
+follower 0 is comitting to 12 because of 3
+true success from 0
+true success from 1
+true success from 2
+follower 4 is comitting to 12 because of 3
+true success from 4
+leader 3 committing: 14
+heartbeat checked in 1
+3 thinks it is the leader! with term... 16
+follower 0 is comitting to 13 because of 3
+true success from 0
+follower 1 is comitting to 13 because of 3
+true success from 1
+follower 2 is comitting to 13 because of 3
+true success from 2
+follower 4 is comitting to 13 because of 3
+true success from 4
+3 thinks it is the leader! with term... 16
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 16
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 16
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 16
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 16
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 16
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 16
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 16
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 16
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+3 thinks it is the leader! with term... 16
+disconnecting 4 0
+sending 24
+24 receieved in 3
+true success from 1
+true success from 2
+leader 3 committing: 15
+3 thinks it is the leader! with term... 16
+follower 1 is comitting to 14 because of 3
+true success from 1
+follower 2 is comitting to 14 because of 3
+true success from 2
+disconnecting 3 1 2
+reconnecting 4 0 with applier
+heartbeat checked in 2
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+heartbeat checked in 0
+heartbeat checked in 1
+reconnecting 1 with applier
+sending 25
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+3 thinks it is the leader! with term... 16
+1 is leader!!!!
+25 receieved in 1
+1 thinks it is the leader! with term... 18
+false success from 0
+false success from 4
+1 thinks it is the leader! with term... 18
+true success from 0
+3 thinks it is the leader! with term... 16
+true success from 4
+leader 1 committing: 1
+leader 1 committing: 2
+leader 1 committing: 3
+leader 1 committing: 4
+leader 1 committing: 5
+leader 1 committing: 6
+leader 1 committing: 7
+leader 1 committing: 8
+leader 1 committing: 9
+leader 1 committing: 10
+leader 1 committing: 11
+leader 1 committing: 12
+leader 1 committing: 13
+leader 1 committing: 14
+leader 1 committing: 15
+leader 1 committing: 16
+1 thinks it is the leader! with term... 18
+follower 0 is comitting to 0 because of 1
+follower 0 is comitting to 1 because of 1
+follower 0 is comitting to 2 because of 1
+follower 0 is comitting to 3 because of 1
+follower 0 is comitting to 4 because of 1
+follower 0 is comitting to 5 because of 1
+follower 0 is comitting to 6 because of 1
+follower 0 is comitting to 7 because of 1
+follower 0 is comitting to 8 because of 1
+follower 0 is comitting to 9 because of 1
+follower 0 is comitting to 10 because of 1
+follower 0 is comitting to 11 because of 1
+follower 0 is comitting to 12 because of 1
+follower 0 is comitting to 13 because of 1
+follower 0 is comitting to 14 because of 1
+follower 0 is comitting to 15 because of 1
+true success from 0
+follower 4 is comitting to 0 because of 1
+follower 4 is comitting to 1 because of 1
+follower 4 is comitting to 2 because of 1
+follower 4 is comitting to 3 because of 1
+follower 4 is comitting to 4 because of 1
+follower 4 is comitting to 5 because of 1
+follower 4 is comitting to 6 because of 1
+follower 4 is comitting to 7 because of 1
+follower 4 is comitting to 8 because of 1
+follower 4 is comitting to 9 because of 1
+follower 4 is comitting to 10 because of 1
+follower 4 is comitting to 11 because of 1
+follower 4 is comitting to 12 because of 1
+follower 4 is comitting to 13 because of 1
+follower 4 is comitting to 14 because of 1
+follower 4 is comitting to 15 because of 1
+true success from 4
+reconnecting 2 3 with applier
+3 thinks it is the leader! with term... 16
+false success from 0
+1 thinks it is the leader! with term... 18
+1000 receieved in 1
+true success from 0
+follower 2 is comitting to 15 because of 1
+true success from 2
+follower 3 is comitting to 15 because of 1
+true success from 3
+true success from 4
+leader 1 committing: 17
+1 thinks it is the leader! with term... 18
+follower 0 is comitting to 16 because of 1
+true success from 0
+follower 2 is comitting to 16 because of 1
+true success from 2
+follower 3 is comitting to 16 because of 1
+true success from 3
+follower 4 is comitting to 16 because of 1
+true success from 4
+  ... Passed --  46.1  5  831  253404   17
+Test (2C): partitioned leader and one follower crash, leader restarts ...
+1 thinks it is the leader! with term... 18
+heartbeat checked in 3
+heartbeat checked in 4
+0 is leader!!!!
+0 thinks it is the leader! with term... 1
+101 receieved in 0
+true success from 1
+true success from 2
+leader 0 committing: 1
+0 thinks it is the leader! with term... 1
+follower 1 is comitting to 0 because of 0
+true success from 1
+follower 2 is comitting to 0 because of 0
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+true success from 1
+true success from 2
+0 thinks it is the leader! with term... 1
+102 receieved in 0
+true success from 1
+0 thinks it is the leader! with term... 1
+true success from 1
+leader 0 committing: 2
+0 thinks it is the leader! with term... 1
+follower 1 is comitting to 1 because of 0
+true success from 1
+0 is leader!!!!
+0 thinks it is the leader! with term... 3
+103 receieved in 0
+false success from 2
+0 thinks it is the leader! with term... 3
+true success from 2
+leader 0 committing: 1
+leader 0 committing: 2
+leader 0 committing: 3
+0 thinks it is the leader! with term... 3
+follower 2 is comitting to 1 because of 0
+follower 2 is comitting to 2 because of 0
+true success from 2
+0 thinks it is the leader! with term... 3
+104 receieved in 0
+follower 1 is comitting to 0 because of 0
+follower 1 is comitting to 1 because of 0
+follower 1 is comitting to 2 because of 0
+true success from 1
+true success from 2
+leader 0 committing: 4
+0 thinks it is the leader! with term... 3
+follower 1 is comitting to 3 because of 0
+true success from 1
+follower 2 is comitting to 3 because of 0
+true success from 2
+  ... Passed --   9.7  3   46   12736    4
+Test (2C): Figure 8 ...
+0 thinks it is the leader! with term... 3
+2 is leader!!!!
+3963496597967684695 receieved in 2
+2 thinks it is the leader! with term... 1
+true success from 0
+true success from 1
+true success from 3
+true success from 4
+leader 2 committing: 1
+2 thinks it is the leader! with term... 1
+7663222037521966629 receieved in 2
+follower 0 is comitting to 0 because of 2
+true success from 0
+follower 1 is comitting to 0 because of 2
+true success from 1
+heartbeat checked in 1
+3 is leader!!!!
+3 thinks it is the leader! with term... 2
+6253195755528339011 receieved in 3
+true success from 0
+true success from 1
+leader 3 committing: 1
+heartbeat checked in 1
+heartbeat checked in 0
+1 is leader!!!!
+1 thinks it is the leader! with term... 4
+false success from 0
+false success from 4
+1 thinks it is the leader! with term... 4
+3078616000451372558 receieved in 1
+true success from 0
+1 is leader!!!!
+1 thinks it is the leader! with term... 5
+false success from 0
+false success from 4
+1 thinks it is the leader! with term... 5
+2359357777005612453 receieved in 1
+true success from 0
+0 is leader!!!!
+0 thinks it is the leader! with term... 6
+6005260798667263872 receieved in 0
+heartbeat checked in 3
+3 is leader!!!!
+7043895003507532118 receieved in 3
+heartbeat checked in 4
+0 is leader!!!!
+0 thinks it is the leader! with term... 9
+heartbeat checked in 2
+false success from 2
+false success from 4
+0 thinks it is the leader! with term... 9
+4541690896137579228 receieved in 0
+heartbeat checked in 2
+3 is leader!!!!
+3 thinks it is the leader! with term... 12
+false success from 2
+false success from 4
+3 thinks it is the leader! with term... 12
+2695368996154154387 receieved in 3
+1 RECONNECTED!
+3 RECONNECTED!
+FINAL
+3 is leader!!!!
+3 thinks it is the leader! with term... 13
+2146132420094931568 receieved in 3
+false success from 0
+false success from 1
+false success from 2
+false success from 4
+3 thinks it is the leader! with term... 13
+false success from 0
+false success from 1
+false success from 2
+true success from 4
+3 thinks it is the leader! with term... 13
+true success from 0
+true success from 1
+true success from 2
+true success from 4
+leader 3 committing: 1
+leader 3 committing: 2
+leader 3 committing: 3
+leader 3 committing: 4
+leader 3 committing: 5
+3 thinks it is the leader! with term... 13
+follower 0 is comitting to 0 because of 3
+follower 0 is comitting to 1 because of 3
+follower 0 is comitting to 2 because of 3
+follower 0 is comitting to 3 because of 3
+follower 0 is comitting to 4 because of 3
+true success from 0
+follower 1 is comitting to 0 because of 3
+follower 1 is comitting to 1 because of 3
+follower 1 is comitting to 2 because of 3
+follower 1 is comitting to 3 because of 3
+follower 1 is comitting to 4 because of 3
+true success from 1
+follower 2 is comitting to 0 because of 3
+follower 2 is comitting to 1 because of 3
+follower 2 is comitting to 2 because of 3
+follower 2 is comitting to 3 because of 3
+follower 2 is comitting to 4 because of 3
+true success from 2
+follower 4 is comitting to 0 because of 3
+follower 4 is comitting to 1 because of 3
+follower 4 is comitting to 2 because of 3
+follower 4 is comitting to 3 because of 3
+follower 4 is comitting to 4 because of 3
+true success from 4
+  ... Passed --  36.7  5  113   24885    5
+Test (2C): unreliable agreement ...
+3 thinks it is the leader! with term... 13
+heartbeat checked in 0
+heartbeat checked in 1
+1 is leader!!!!
+103 receieved in 1
+1 receieved in 1
+102 receieved in 1
+101 receieved in 1
+100 receieved in 1
+heartbeat checked in 3
+heartbeat checked in 2
+heartbeat checked in 4
+1 is leader!!!!
+1 thinks it is the leader! with term... 2
+false success from 0
+false success from 2
+false success from 4
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+false success from 3
+true success from 4
+leader 1 committing: 1
+leader 1 committing: 2
+leader 1 committing: 3
+leader 1 committing: 4
+leader 1 committing: 5
+1 thinks it is the leader! with term... 2
+2 receieved in 1
+203 receieved in 1
+200 receieved in 1
+202 receieved in 1
+201 receieved in 1
+follower 0 is comitting to 0 because of 1
+follower 0 is comitting to 1 because of 1
+follower 0 is comitting to 2 because of 1
+follower 0 is comitting to 3 because of 1
+follower 0 is comitting to 4 because of 1
+true success from 0
+follower 2 is comitting to 0 because of 1
+follower 2 is comitting to 1 because of 1
+follower 2 is comitting to 2 because of 1
+follower 2 is comitting to 3 because of 1
+follower 2 is comitting to 4 because of 1
+true success from 2
+follower 3 is comitting to 0 because of 1
+follower 3 is comitting to 1 because of 1
+follower 3 is comitting to 2 because of 1
+follower 3 is comitting to 3 because of 1
+follower 3 is comitting to 4 because of 1
+true success from 3
+leader 1 committing: 6
+leader 1 committing: 7
+leader 1 committing: 8
+leader 1 committing: 9
+leader 1 committing: 10
+1 thinks it is the leader! with term... 2
+300 receieved in 1
+301 receieved in 1
+303 receieved in 1
+302 receieved in 1
+3 receieved in 1
+follower 0 is comitting to 5 because of 1
+follower 0 is comitting to 6 because of 1
+follower 0 is comitting to 7 because of 1
+follower 0 is comitting to 8 because of 1
+follower 0 is comitting to 9 because of 1
+true success from 0
+follower 2 is comitting to 5 because of 1
+follower 2 is comitting to 6 because of 1
+follower 2 is comitting to 7 because of 1
+follower 2 is comitting to 8 because of 1
+follower 2 is comitting to 9 because of 1
+true success from 2
+follower 3 is comitting to 5 because of 1
+follower 3 is comitting to 6 because of 1
+follower 3 is comitting to 7 because of 1
+follower 3 is comitting to 8 because of 1
+follower 3 is comitting to 9 because of 1
+true success from 3
+follower 4 is comitting to 0 because of 1
+follower 4 is comitting to 1 because of 1
+follower 4 is comitting to 2 because of 1
+follower 4 is comitting to 3 because of 1
+follower 4 is comitting to 4 because of 1
+follower 4 is comitting to 5 because of 1
+follower 4 is comitting to 6 because of 1
+follower 4 is comitting to 7 because of 1
+follower 4 is comitting to 8 because of 1
+follower 4 is comitting to 9 because of 1
+true success from 4
+leader 1 committing: 11
+leader 1 committing: 12
+leader 1 committing: 13
+leader 1 committing: 14
+leader 1 committing: 15
+1 thinks it is the leader! with term... 2
+4 receieved in 1
+403 receieved in 1
+400 receieved in 1
+401 receieved in 1
+402 receieved in 1
+follower 0 is comitting to 10 because of 1
+follower 0 is comitting to 11 because of 1
+follower 0 is comitting to 12 because of 1
+follower 0 is comitting to 13 because of 1
+follower 0 is comitting to 14 because of 1
+true success from 0
+follower 2 is comitting to 10 because of 1
+follower 2 is comitting to 11 because of 1
+follower 2 is comitting to 12 because of 1
+follower 2 is comitting to 13 because of 1
+follower 2 is comitting to 14 because of 1
+true success from 2
+follower 3 is comitting to 10 because of 1
+follower 3 is comitting to 11 because of 1
+follower 3 is comitting to 12 because of 1
+follower 3 is comitting to 13 because of 1
+follower 3 is comitting to 14 because of 1
+true success from 3
+follower 4 is comitting to 10 because of 1
+follower 4 is comitting to 11 because of 1
+follower 4 is comitting to 12 because of 1
+follower 4 is comitting to 13 because of 1
+follower 4 is comitting to 14 because of 1
+true success from 4
+leader 1 committing: 16
+leader 1 committing: 17
+leader 1 committing: 18
+leader 1 committing: 19
+leader 1 committing: 20
+1 thinks it is the leader! with term... 2
+500 receieved in 1
+5 receieved in 1
+501 receieved in 1
+502 receieved in 1
+503 receieved in 1
+follower 2 is comitting to 15 because of 1
+follower 2 is comitting to 16 because of 1
+follower 2 is comitting to 17 because of 1
+follower 2 is comitting to 18 because of 1
+follower 2 is comitting to 19 because of 1
+true success from 2
+follower 3 is comitting to 15 because of 1
+follower 3 is comitting to 16 because of 1
+follower 3 is comitting to 17 because of 1
+follower 3 is comitting to 18 because of 1
+follower 3 is comitting to 19 because of 1
+true success from 3
+follower 4 is comitting to 15 because of 1
+follower 4 is comitting to 16 because of 1
+follower 4 is comitting to 17 because of 1
+follower 4 is comitting to 18 because of 1
+follower 4 is comitting to 19 because of 1
+true success from 4
+leader 1 committing: 21
+leader 1 committing: 22
+leader 1 committing: 23
+leader 1 committing: 24
+leader 1 committing: 25
+1 thinks it is the leader! with term... 2
+601 receieved in 1
+600 receieved in 1
+6 receieved in 1
+603 receieved in 1
+602 receieved in 1
+follower 0 is comitting to 15 because of 1
+follower 0 is comitting to 16 because of 1
+follower 0 is comitting to 17 because of 1
+follower 0 is comitting to 18 because of 1
+follower 0 is comitting to 19 because of 1
+follower 0 is comitting to 20 because of 1
+follower 0 is comitting to 21 because of 1
+follower 0 is comitting to 22 because of 1
+follower 0 is comitting to 23 because of 1
+follower 0 is comitting to 24 because of 1
+follower 3 is comitting to 20 because of 1
+follower 3 is comitting to 21 because of 1
+follower 3 is comitting to 22 because of 1
+follower 3 is comitting to 23 because of 1
+follower 3 is comitting to 24 because of 1
+true success from 3
+follower 4 is comitting to 20 because of 1
+follower 4 is comitting to 21 because of 1
+follower 4 is comitting to 22 because of 1
+follower 4 is comitting to 23 because of 1
+follower 4 is comitting to 24 because of 1
+true success from 4
+leader 1 committing: 26
+leader 1 committing: 27
+leader 1 committing: 28
+leader 1 committing: 29
+leader 1 committing: 30
+1 thinks it is the leader! with term... 2
+700 receieved in 1
+702 receieved in 1
+701 receieved in 1
+7 receieved in 1
+703 receieved in 1
+follower 0 is comitting to 25 because of 1
+follower 0 is comitting to 26 because of 1
+follower 0 is comitting to 27 because of 1
+follower 0 is comitting to 28 because of 1
+follower 0 is comitting to 29 because of 1
+true success from 0
+follower 4 is comitting to 25 because of 1
+follower 4 is comitting to 26 because of 1
+follower 4 is comitting to 27 because of 1
+follower 4 is comitting to 28 because of 1
+follower 4 is comitting to 29 because of 1
+true success from 4
+1 thinks it is the leader! with term... 2
+true success from 0
+follower 3 is comitting to 25 because of 1
+follower 3 is comitting to 26 because of 1
+follower 3 is comitting to 27 because of 1
+follower 3 is comitting to 28 because of 1
+follower 3 is comitting to 29 because of 1
+true success from 3
+true success from 4
+leader 1 committing: 31
+leader 1 committing: 32
+leader 1 committing: 33
+leader 1 committing: 34
+leader 1 committing: 35
+1 thinks it is the leader! with term... 2
+800 receieved in 1
+8 receieved in 1
+802 receieved in 1
+803 receieved in 1
+801 receieved in 1
+follower 0 is comitting to 30 because of 1
+follower 0 is comitting to 31 because of 1
+follower 0 is comitting to 32 because of 1
+follower 0 is comitting to 33 because of 1
+follower 0 is comitting to 34 because of 1
+true success from 0
+follower 2 is comitting to 20 because of 1
+follower 2 is comitting to 21 because of 1
+follower 2 is comitting to 22 because of 1
+follower 2 is comitting to 23 because of 1
+follower 2 is comitting to 24 because of 1
+follower 2 is comitting to 25 because of 1
+follower 2 is comitting to 26 because of 1
+follower 2 is comitting to 27 because of 1
+follower 2 is comitting to 28 because of 1
+follower 2 is comitting to 29 because of 1
+follower 2 is comitting to 30 because of 1
+follower 2 is comitting to 31 because of 1
+follower 2 is comitting to 32 because of 1
+follower 2 is comitting to 33 because of 1
+follower 2 is comitting to 34 because of 1
+true success from 2
+follower 3 is comitting to 30 because of 1
+follower 3 is comitting to 31 because of 1
+follower 3 is comitting to 32 because of 1
+follower 3 is comitting to 33 because of 1
+follower 3 is comitting to 34 because of 1
+true success from 3
+follower 4 is comitting to 30 because of 1
+follower 4 is comitting to 31 because of 1
+follower 4 is comitting to 32 because of 1
+follower 4 is comitting to 33 because of 1
+follower 4 is comitting to 34 because of 1
+true success from 4
+leader 1 committing: 36
+leader 1 committing: 37
+leader 1 committing: 38
+leader 1 committing: 39
+leader 1 committing: 40
+1 thinks it is the leader! with term... 2
+900 receieved in 1
+9 receieved in 1
+903 receieved in 1
+901 receieved in 1
+902 receieved in 1
+follower 0 is comitting to 35 because of 1
+follower 0 is comitting to 36 because of 1
+follower 0 is comitting to 37 because of 1
+follower 0 is comitting to 38 because of 1
+follower 0 is comitting to 39 because of 1
+true success from 0
+follower 2 is comitting to 35 because of 1
+follower 2 is comitting to 36 because of 1
+follower 2 is comitting to 37 because of 1
+follower 2 is comitting to 38 because of 1
+follower 2 is comitting to 39 because of 1
+true success from 2
+follower 4 is comitting to 35 because of 1
+follower 4 is comitting to 36 because of 1
+follower 4 is comitting to 37 because of 1
+follower 4 is comitting to 38 because of 1
+follower 4 is comitting to 39 because of 1
+true success from 4
+leader 1 committing: 41
+leader 1 committing: 42
+leader 1 committing: 43
+leader 1 committing: 44
+leader 1 committing: 45
+1 thinks it is the leader! with term... 2
+1000 receieved in 1
+10 receieved in 1
+1002 receieved in 1
+1001 receieved in 1
+1003 receieved in 1
+follower 0 is comitting to 40 because of 1
+follower 0 is comitting to 41 because of 1
+follower 0 is comitting to 42 because of 1
+follower 0 is comitting to 43 because of 1
+follower 0 is comitting to 44 because of 1
+true success from 0
+follower 3 is comitting to 35 because of 1
+follower 3 is comitting to 36 because of 1
+follower 3 is comitting to 37 because of 1
+follower 3 is comitting to 38 because of 1
+follower 3 is comitting to 39 because of 1
+follower 3 is comitting to 40 because of 1
+follower 3 is comitting to 41 because of 1
+follower 3 is comitting to 42 because of 1
+follower 3 is comitting to 43 because of 1
+follower 3 is comitting to 44 because of 1
+true success from 3
+follower 4 is comitting to 40 because of 1
+follower 4 is comitting to 41 because of 1
+follower 4 is comitting to 42 because of 1
+follower 4 is comitting to 43 because of 1
+follower 4 is comitting to 44 because of 1
+true success from 4
+leader 1 committing: 46
+leader 1 committing: 47
+leader 1 committing: 48
+leader 1 committing: 49
+leader 1 committing: 50
+1 thinks it is the leader! with term... 2
+11 receieved in 1
+1100 receieved in 1
+1101 receieved in 1
+1103 receieved in 1
+1102 receieved in 1
+follower 0 is comitting to 45 because of 1
+follower 0 is comitting to 46 because of 1
+follower 0 is comitting to 47 because of 1
+follower 0 is comitting to 48 because of 1
+follower 0 is comitting to 49 because of 1
+true success from 0
+follower 2 is comitting to 40 because of 1
+follower 2 is comitting to 41 because of 1
+follower 2 is comitting to 42 because of 1
+follower 2 is comitting to 43 because of 1
+follower 2 is comitting to 44 because of 1
+follower 2 is comitting to 45 because of 1
+follower 2 is comitting to 46 because of 1
+follower 2 is comitting to 47 because of 1
+follower 2 is comitting to 48 because of 1
+follower 2 is comitting to 49 because of 1
+true success from 2
+follower 3 is comitting to 45 because of 1
+follower 3 is comitting to 46 because of 1
+follower 3 is comitting to 47 because of 1
+follower 3 is comitting to 48 because of 1
+follower 3 is comitting to 49 because of 1
+heartbeat checked in 3
+true success from 3
+follower 4 is comitting to 45 because of 1
+follower 4 is comitting to 46 because of 1
+follower 4 is comitting to 47 because of 1
+follower 4 is comitting to 48 because of 1
+follower 4 is comitting to 49 because of 1
+true success from 4
+leader 1 committing: 51
+leader 1 committing: 52
+leader 1 committing: 53
+leader 1 committing: 54
+leader 1 committing: 55
+1 thinks it is the leader! with term... 2
+1200 receieved in 1
+1201 receieved in 1
+follower 0 is comitting to 50 because of 1
+12 receieved in 1
+follower 0 is comitting to 51 because of 1
+follower 0 is comitting to 52 because of 1
+follower 0 is comitting to 53 because of 1
+follower 0 is comitting to 54 because of 1
+1202 receieved in 1
+1203 receieved in 1
+true success from 0
+follower 2 is comitting to 50 because of 1
+follower 2 is comitting to 51 because of 1
+follower 2 is comitting to 52 because of 1
+follower 2 is comitting to 53 because of 1
+follower 2 is comitting to 54 because of 1
+true success from 2
+follower 3 is comitting to 50 because of 1
+follower 3 is comitting to 51 because of 1
+follower 3 is comitting to 52 because of 1
+follower 3 is comitting to 53 because of 1
+follower 3 is comitting to 54 because of 1
+true success from 3
+leader 1 committing: 56
+leader 1 committing: 57
+leader 1 committing: 58
+leader 1 committing: 59
+leader 1 committing: 60
+1 thinks it is the leader! with term... 2
+1301 receieved in 1
+1300 receieved in 1
+follower 0 is comitting to 55 because of 1
+follower 0 is comitting to 56 because of 1
+13 receieved in 1
+follower 0 is comitting to 57 because of 1
+follower 0 is comitting to 58 because of 1
+follower 0 is comitting to 59 because of 1
+1302 receieved in 1
+1303 receieved in 1
+true success from 0
+follower 2 is comitting to 55 because of 1
+follower 2 is comitting to 56 because of 1
+follower 2 is comitting to 57 because of 1
+follower 2 is comitting to 58 because of 1
+follower 2 is comitting to 59 because of 1
+true success from 2
+follower 3 is comitting to 55 because of 1
+follower 3 is comitting to 56 because of 1
+follower 3 is comitting to 57 because of 1
+follower 3 is comitting to 58 because of 1
+follower 3 is comitting to 59 because of 1
+true success from 3
+follower 4 is comitting to 50 because of 1
+follower 4 is comitting to 51 because of 1
+follower 4 is comitting to 52 because of 1
+follower 4 is comitting to 53 because of 1
+follower 4 is comitting to 54 because of 1
+follower 4 is comitting to 55 because of 1
+follower 4 is comitting to 56 because of 1
+follower 4 is comitting to 57 because of 1
+follower 4 is comitting to 58 because of 1
+follower 4 is comitting to 59 because of 1
+true success from 4
+leader 1 committing: 61
+leader 1 committing: 62
+leader 1 committing: 63
+leader 1 committing: 64
+leader 1 committing: 65
+1 thinks it is the leader! with term... 2
+1400 receieved in 1
+1401 receieved in 1
+1403 receieved in 1
+1402 receieved in 1
+14 receieved in 1
+follower 0 is comitting to 60 because of 1
+follower 0 is comitting to 61 because of 1
+follower 0 is comitting to 62 because of 1
+follower 0 is comitting to 63 because of 1
+follower 0 is comitting to 64 because of 1
+true success from 0
+follower 2 is comitting to 60 because of 1
+follower 2 is comitting to 61 because of 1
+follower 2 is comitting to 62 because of 1
+follower 2 is comitting to 63 because of 1
+follower 2 is comitting to 64 because of 1
+true success from 2
+follower 3 is comitting to 60 because of 1
+follower 3 is comitting to 61 because of 1
+follower 3 is comitting to 62 because of 1
+follower 3 is comitting to 63 because of 1
+follower 3 is comitting to 64 because of 1
+true success from 3
+follower 4 is comitting to 60 because of 1
+follower 4 is comitting to 61 because of 1
+follower 4 is comitting to 62 because of 1
+follower 4 is comitting to 63 because of 1
+follower 4 is comitting to 64 because of 1
+true success from 4
+leader 1 committing: 66
+leader 1 committing: 67
+leader 1 committing: 68
+leader 1 committing: 69
+leader 1 committing: 70
+1 thinks it is the leader! with term... 2
+15 receieved in 1
+1500 receieved in 1
+1501 receieved in 1
+1502 receieved in 1
+1503 receieved in 1
+follower 0 is comitting to 65 because of 1
+follower 0 is comitting to 66 because of 1
+follower 0 is comitting to 67 because of 1
+follower 0 is comitting to 68 because of 1
+follower 0 is comitting to 69 because of 1
+true success from 0
+follower 2 is comitting to 65 because of 1
+follower 2 is comitting to 66 because of 1
+follower 2 is comitting to 67 because of 1
+follower 2 is comitting to 68 because of 1
+follower 2 is comitting to 69 because of 1
+true success from 2
+follower 3 is comitting to 65 because of 1
+follower 3 is comitting to 66 because of 1
+follower 3 is comitting to 67 because of 1
+follower 3 is comitting to 68 because of 1
+follower 3 is comitting to 69 because of 1
+true success from 3
+follower 4 is comitting to 65 because of 1
+follower 4 is comitting to 66 because of 1
+follower 4 is comitting to 67 because of 1
+follower 4 is comitting to 68 because of 1
+follower 4 is comitting to 69 because of 1
+leader 1 committing: 71
+leader 1 committing: 72
+leader 1 committing: 73
+leader 1 committing: 74
+leader 1 committing: 75
+1 thinks it is the leader! with term... 2
+16 receieved in 1
+1600 receieved in 1
+1603 receieved in 1
+1601 receieved in 1
+1602 receieved in 1
+follower 0 is comitting to 70 because of 1
+follower 0 is comitting to 71 because of 1
+follower 0 is comitting to 72 because of 1
+follower 0 is comitting to 73 because of 1
+follower 0 is comitting to 74 because of 1
+true success from 0
+follower 2 is comitting to 70 because of 1
+follower 2 is comitting to 71 because of 1
+follower 2 is comitting to 72 because of 1
+follower 2 is comitting to 73 because of 1
+follower 2 is comitting to 74 because of 1
+follower 3 is comitting to 70 because of 1
+follower 3 is comitting to 71 because of 1
+follower 3 is comitting to 72 because of 1
+follower 3 is comitting to 73 because of 1
+follower 3 is comitting to 74 because of 1
+true success from 3
+follower 4 is comitting to 70 because of 1
+follower 4 is comitting to 71 because of 1
+follower 4 is comitting to 72 because of 1
+follower 4 is comitting to 73 because of 1
+follower 4 is comitting to 74 because of 1
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 3
+true success from 4
+leader 1 committing: 76
+leader 1 committing: 77
+leader 1 committing: 78
+leader 1 committing: 79
+leader 1 committing: 80
+1 thinks it is the leader! with term... 2
+17 receieved in 1
+1703 receieved in 1
+1700 receieved in 1
+1702 receieved in 1
+1701 receieved in 1
+follower 0 is comitting to 75 because of 1
+follower 0 is comitting to 76 because of 1
+follower 0 is comitting to 77 because of 1
+follower 0 is comitting to 78 because of 1
+follower 0 is comitting to 79 because of 1
+true success from 0
+follower 2 is comitting to 75 because of 1
+follower 2 is comitting to 76 because of 1
+follower 2 is comitting to 77 because of 1
+follower 2 is comitting to 78 because of 1
+follower 2 is comitting to 79 because of 1
+true success from 2
+follower 3 is comitting to 75 because of 1
+follower 3 is comitting to 76 because of 1
+follower 3 is comitting to 77 because of 1
+follower 3 is comitting to 78 because of 1
+follower 3 is comitting to 79 because of 1
+true success from 3
+follower 4 is comitting to 75 because of 1
+follower 4 is comitting to 76 because of 1
+follower 4 is comitting to 77 because of 1
+follower 4 is comitting to 78 because of 1
+follower 4 is comitting to 79 because of 1
+true success from 4
+leader 1 committing: 81
+leader 1 committing: 82
+leader 1 committing: 83
+leader 1 committing: 84
+leader 1 committing: 85
+heartbeat checked in 2
+1 thinks it is the leader! with term... 2
+18 receieved in 1
+1803 receieved in 1
+1802 receieved in 1
+1801 receieved in 1
+1800 receieved in 1
+follower 2 is comitting to 80 because of 1
+follower 2 is comitting to 81 because of 1
+follower 2 is comitting to 82 because of 1
+follower 2 is comitting to 83 because of 1
+follower 2 is comitting to 84 because of 1
+true success from 2
+follower 3 is comitting to 80 because of 1
+follower 3 is comitting to 81 because of 1
+follower 3 is comitting to 82 because of 1
+follower 3 is comitting to 83 because of 1
+follower 3 is comitting to 84 because of 1
+true success from 3
+leader 1 committing: 86
+leader 1 committing: 87
+leader 1 committing: 88
+leader 1 committing: 89
+leader 1 committing: 90
+heartbeat checked in 4
+1 thinks it is the leader! with term... 2
+1901 receieved in 1
+1902 receieved in 1
+1903 receieved in 1
+follower 0 is comitting to 80 because of 1
+follower 0 is comitting to 81 because of 1
+follower 0 is comitting to 82 because of 1
+follower 0 is comitting to 83 because of 1
+follower 0 is comitting to 84 because of 1
+follower 0 is comitting to 85 because of 1
+follower 0 is comitting to 86 because of 1
+follower 0 is comitting to 87 because of 1
+follower 0 is comitting to 88 because of 1
+follower 0 is comitting to 89 because of 1
+19 receieved in 1
+1900 receieved in 1
+true success from 0
+follower 2 is comitting to 85 because of 1
+follower 2 is comitting to 86 because of 1
+follower 2 is comitting to 87 because of 1
+follower 2 is comitting to 88 because of 1
+follower 2 is comitting to 89 because of 1
+true success from 2
+follower 4 is comitting to 80 because of 1
+follower 4 is comitting to 81 because of 1
+follower 4 is comitting to 82 because of 1
+follower 4 is comitting to 83 because of 1
+follower 4 is comitting to 84 because of 1
+follower 4 is comitting to 85 because of 1
+follower 4 is comitting to 86 because of 1
+follower 4 is comitting to 87 because of 1
+follower 4 is comitting to 88 because of 1
+follower 4 is comitting to 89 because of 1
+true success from 4
+leader 1 committing: 91
+leader 1 committing: 92
+leader 1 committing: 93
+leader 1 committing: 94
+leader 1 committing: 95
+1 thinks it is the leader! with term... 2
+2003 receieved in 1
+20 receieved in 1
+2000 receieved in 1
+2001 receieved in 1
+2002 receieved in 1
+follower 3 is comitting to 85 because of 1
+follower 3 is comitting to 86 because of 1
+follower 3 is comitting to 87 because of 1
+follower 3 is comitting to 88 because of 1
+follower 3 is comitting to 89 because of 1
+follower 3 is comitting to 90 because of 1
+follower 3 is comitting to 91 because of 1
+follower 3 is comitting to 92 because of 1
+follower 3 is comitting to 93 because of 1
+follower 3 is comitting to 94 because of 1
+true success from 3
+follower 4 is comitting to 90 because of 1
+follower 4 is comitting to 91 because of 1
+follower 4 is comitting to 92 because of 1
+follower 4 is comitting to 93 because of 1
+follower 4 is comitting to 94 because of 1
+true success from 4
+leader 1 committing: 96
+leader 1 committing: 97
+leader 1 committing: 98
+leader 1 committing: 99
+leader 1 committing: 100
+1 thinks it is the leader! with term... 2
+2101 receieved in 1
+2102 receieved in 1
+2103 receieved in 1
+2100 receieved in 1
+21 receieved in 1
+follower 0 is comitting to 90 because of 1
+follower 0 is comitting to 91 because of 1
+follower 0 is comitting to 92 because of 1
+follower 0 is comitting to 93 because of 1
+follower 0 is comitting to 94 because of 1
+follower 0 is comitting to 95 because of 1
+follower 0 is comitting to 96 because of 1
+follower 0 is comitting to 97 because of 1
+follower 0 is comitting to 98 because of 1
+follower 0 is comitting to 99 because of 1
+true success from 0
+follower 2 is comitting to 90 because of 1
+follower 2 is comitting to 91 because of 1
+follower 2 is comitting to 92 because of 1
+follower 2 is comitting to 93 because of 1
+follower 2 is comitting to 94 because of 1
+follower 2 is comitting to 95 because of 1
+follower 2 is comitting to 96 because of 1
+follower 2 is comitting to 97 because of 1
+follower 2 is comitting to 98 because of 1
+follower 2 is comitting to 99 because of 1
+follower 4 is comitting to 95 because of 1
+follower 4 is comitting to 96 because of 1
+follower 4 is comitting to 97 because of 1
+follower 4 is comitting to 98 because of 1
+follower 4 is comitting to 99 because of 1
+heartbeat checked in 0
+true success from 4
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+follower 3 is comitting to 95 because of 1
+follower 3 is comitting to 96 because of 1
+follower 3 is comitting to 97 because of 1
+follower 3 is comitting to 98 because of 1
+follower 3 is comitting to 99 because of 1
+true success from 3
+true success from 4
+leader 1 committing: 101
+leader 1 committing: 102
+leader 1 committing: 103
+leader 1 committing: 104
+leader 1 committing: 105
+1 thinks it is the leader! with term... 2
+22 receieved in 1
+2200 receieved in 1
+2203 receieved in 1
+2202 receieved in 1
+2201 receieved in 1
+follower 0 is comitting to 100 because of 1
+follower 0 is comitting to 101 because of 1
+follower 0 is comitting to 102 because of 1
+follower 0 is comitting to 103 because of 1
+follower 0 is comitting to 104 because of 1
+true success from 0
+follower 2 is comitting to 100 because of 1
+follower 2 is comitting to 101 because of 1
+follower 2 is comitting to 102 because of 1
+follower 2 is comitting to 103 because of 1
+follower 2 is comitting to 104 because of 1
+true success from 2
+follower 3 is comitting to 100 because of 1
+follower 3 is comitting to 101 because of 1
+follower 3 is comitting to 102 because of 1
+follower 3 is comitting to 103 because of 1
+follower 3 is comitting to 104 because of 1
+true success from 3
+follower 4 is comitting to 100 because of 1
+follower 4 is comitting to 101 because of 1
+follower 4 is comitting to 102 because of 1
+follower 4 is comitting to 103 because of 1
+follower 4 is comitting to 104 because of 1
+true success from 4
+leader 1 committing: 106
+leader 1 committing: 107
+leader 1 committing: 108
+leader 1 committing: 109
+leader 1 committing: 110
+1 thinks it is the leader! with term... 2
+23 receieved in 1
+2300 receieved in 1
+2303 receieved in 1
+2302 receieved in 1
+follower 0 is comitting to 105 because of 1
+follower 0 is comitting to 106 because of 1
+follower 0 is comitting to 107 because of 1
+2301 receieved in 1
+follower 0 is comitting to 108 because of 1
+follower 0 is comitting to 109 because of 1
+true success from 0
+follower 2 is comitting to 105 because of 1
+follower 2 is comitting to 106 because of 1
+follower 2 is comitting to 107 because of 1
+follower 2 is comitting to 108 because of 1
+follower 2 is comitting to 109 because of 1
+true success from 2
+follower 3 is comitting to 105 because of 1
+follower 3 is comitting to 106 because of 1
+follower 3 is comitting to 107 because of 1
+follower 3 is comitting to 108 because of 1
+follower 3 is comitting to 109 because of 1
+true success from 3
+follower 4 is comitting to 105 because of 1
+follower 4 is comitting to 106 because of 1
+follower 4 is comitting to 107 because of 1
+follower 4 is comitting to 108 because of 1
+follower 4 is comitting to 109 because of 1
+true success from 4
+leader 1 committing: 111
+leader 1 committing: 112
+leader 1 committing: 113
+leader 1 committing: 114
+leader 1 committing: 115
+1 thinks it is the leader! with term... 2
+24 receieved in 1
+2400 receieved in 1
+2403 receieved in 1
+2401 receieved in 1
+2402 receieved in 1
+follower 0 is comitting to 110 because of 1
+follower 0 is comitting to 111 because of 1
+follower 0 is comitting to 112 because of 1
+follower 0 is comitting to 113 because of 1
+follower 0 is comitting to 114 because of 1
+true success from 0
+follower 2 is comitting to 110 because of 1
+follower 2 is comitting to 111 because of 1
+follower 2 is comitting to 112 because of 1
+follower 2 is comitting to 113 because of 1
+follower 2 is comitting to 114 because of 1
+true success from 2
+follower 3 is comitting to 110 because of 1
+follower 3 is comitting to 111 because of 1
+follower 3 is comitting to 112 because of 1
+follower 3 is comitting to 113 because of 1
+follower 3 is comitting to 114 because of 1
+true success from 3
+leader 1 committing: 116
+leader 1 committing: 117
+leader 1 committing: 118
+leader 1 committing: 119
+leader 1 committing: 120
+1 thinks it is the leader! with term... 2
+25 receieved in 1
+2500 receieved in 1
+2503 receieved in 1
+follower 0 is comitting to 115 because of 1
+follower 0 is comitting to 116 because of 1
+follower 0 is comitting to 117 because of 1
+follower 0 is comitting to 118 because of 1
+follower 0 is comitting to 119 because of 1
+2502 receieved in 1
+2501 receieved in 1
+true success from 0
+follower 2 is comitting to 115 because of 1
+follower 2 is comitting to 116 because of 1
+follower 2 is comitting to 117 because of 1
+follower 2 is comitting to 118 because of 1
+follower 2 is comitting to 119 because of 1
+true success from 2
+follower 3 is comitting to 115 because of 1
+follower 3 is comitting to 116 because of 1
+follower 3 is comitting to 117 because of 1
+follower 3 is comitting to 118 because of 1
+follower 3 is comitting to 119 because of 1
+follower 4 is comitting to 110 because of 1
+follower 4 is comitting to 111 because of 1
+follower 4 is comitting to 112 because of 1
+follower 4 is comitting to 113 because of 1
+follower 4 is comitting to 114 because of 1
+follower 4 is comitting to 115 because of 1
+follower 4 is comitting to 116 because of 1
+follower 4 is comitting to 117 because of 1
+follower 4 is comitting to 118 because of 1
+follower 4 is comitting to 119 because of 1
+true success from 4
+leader 1 committing: 121
+leader 1 committing: 122
+leader 1 committing: 123
+leader 1 committing: 124
+leader 1 committing: 125
+1 thinks it is the leader! with term... 2
+26 receieved in 1
+2603 receieved in 1
+2602 receieved in 1
+2601 receieved in 1
+2600 receieved in 1
+follower 0 is comitting to 120 because of 1
+follower 0 is comitting to 121 because of 1
+follower 0 is comitting to 122 because of 1
+follower 0 is comitting to 123 because of 1
+follower 0 is comitting to 124 because of 1
+true success from 0
+follower 2 is comitting to 120 because of 1
+follower 2 is comitting to 121 because of 1
+follower 2 is comitting to 122 because of 1
+follower 2 is comitting to 123 because of 1
+follower 2 is comitting to 124 because of 1
+true success from 2
+follower 3 is comitting to 120 because of 1
+follower 3 is comitting to 121 because of 1
+follower 3 is comitting to 122 because of 1
+follower 3 is comitting to 123 because of 1
+follower 3 is comitting to 124 because of 1
+true success from 3
+follower 4 is comitting to 120 because of 1
+follower 4 is comitting to 121 because of 1
+follower 4 is comitting to 122 because of 1
+follower 4 is comitting to 123 because of 1
+follower 4 is comitting to 124 because of 1
+true success from 4
+leader 1 committing: 126
+leader 1 committing: 127
+leader 1 committing: 128
+leader 1 committing: 129
+leader 1 committing: 130
+1 thinks it is the leader! with term... 2
+2701 receieved in 1
+2702 receieved in 1
+27 receieved in 1
+2700 receieved in 1
+2703 receieved in 1
+follower 0 is comitting to 125 because of 1
+follower 0 is comitting to 126 because of 1
+follower 0 is comitting to 127 because of 1
+follower 0 is comitting to 128 because of 1
+follower 0 is comitting to 129 because of 1
+true success from 0
+follower 3 is comitting to 125 because of 1
+follower 3 is comitting to 126 because of 1
+follower 3 is comitting to 127 because of 1
+follower 3 is comitting to 128 because of 1
+follower 3 is comitting to 129 because of 1
+true success from 3
+follower 4 is comitting to 125 because of 1
+follower 4 is comitting to 126 because of 1
+follower 4 is comitting to 127 because of 1
+follower 4 is comitting to 128 because of 1
+follower 4 is comitting to 129 because of 1
+true success from 4
+leader 1 committing: 131
+leader 1 committing: 132
+leader 1 committing: 133
+leader 1 committing: 134
+leader 1 committing: 135
+heartbeat checked in 3
+1 thinks it is the leader! with term... 2
+28 receieved in 1
+2801 receieved in 1
+2802 receieved in 1
+2803 receieved in 1
+2800 receieved in 1
+follower 0 is comitting to 130 because of 1
+follower 0 is comitting to 131 because of 1
+follower 0 is comitting to 132 because of 1
+follower 0 is comitting to 133 because of 1
+follower 0 is comitting to 134 because of 1
+true success from 0
+follower 2 is comitting to 125 because of 1
+follower 2 is comitting to 126 because of 1
+follower 2 is comitting to 127 because of 1
+follower 2 is comitting to 128 because of 1
+follower 2 is comitting to 129 because of 1
+follower 2 is comitting to 130 because of 1
+follower 2 is comitting to 131 because of 1
+follower 2 is comitting to 132 because of 1
+follower 2 is comitting to 133 because of 1
+follower 2 is comitting to 134 because of 1
+true success from 2
+follower 3 is comitting to 130 because of 1
+follower 3 is comitting to 131 because of 1
+follower 3 is comitting to 132 because of 1
+follower 3 is comitting to 133 because of 1
+follower 3 is comitting to 134 because of 1
+follower 4 is comitting to 130 because of 1
+follower 4 is comitting to 131 because of 1
+follower 4 is comitting to 132 because of 1
+follower 4 is comitting to 133 because of 1
+follower 4 is comitting to 134 because of 1
+true success from 4
+leader 1 committing: 136
+leader 1 committing: 137
+leader 1 committing: 138
+leader 1 committing: 139
+leader 1 committing: 140
+1 thinks it is the leader! with term... 2
+29 receieved in 1
+2900 receieved in 1
+2901 receieved in 1
+2902 receieved in 1
+follower 0 is comitting to 135 because of 1
+follower 0 is comitting to 136 because of 1
+follower 0 is comitting to 137 because of 1
+follower 0 is comitting to 138 because of 1
+follower 0 is comitting to 139 because of 1
+2903 receieved in 1
+true success from 0
+follower 2 is comitting to 135 because of 1
+follower 2 is comitting to 136 because of 1
+follower 2 is comitting to 137 because of 1
+follower 2 is comitting to 138 because of 1
+follower 2 is comitting to 139 because of 1
+true success from 2
+follower 3 is comitting to 135 because of 1
+follower 3 is comitting to 136 because of 1
+follower 3 is comitting to 137 because of 1
+follower 3 is comitting to 138 because of 1
+follower 3 is comitting to 139 because of 1
+true success from 3
+follower 4 is comitting to 135 because of 1
+follower 4 is comitting to 136 because of 1
+follower 4 is comitting to 137 because of 1
+follower 4 is comitting to 138 because of 1
+follower 4 is comitting to 139 because of 1
+true success from 4
+leader 1 committing: 141
+leader 1 committing: 142
+leader 1 committing: 143
+leader 1 committing: 144
+leader 1 committing: 145
+1 thinks it is the leader! with term... 2
+3001 receieved in 1
+3002 receieved in 1
+30 receieved in 1
+3003 receieved in 1
+3000 receieved in 1
+follower 0 is comitting to 140 because of 1
+follower 0 is comitting to 141 because of 1
+follower 0 is comitting to 142 because of 1
+follower 0 is comitting to 143 because of 1
+follower 0 is comitting to 144 because of 1
+true success from 0
+follower 2 is comitting to 140 because of 1
+follower 2 is comitting to 141 because of 1
+follower 2 is comitting to 142 because of 1
+follower 2 is comitting to 143 because of 1
+follower 2 is comitting to 144 because of 1
+true success from 2
+follower 3 is comitting to 140 because of 1
+follower 3 is comitting to 141 because of 1
+follower 3 is comitting to 142 because of 1
+follower 3 is comitting to 143 because of 1
+follower 3 is comitting to 144 because of 1
+true success from 3
+follower 4 is comitting to 140 because of 1
+follower 4 is comitting to 141 because of 1
+follower 4 is comitting to 142 because of 1
+follower 4 is comitting to 143 because of 1
+follower 4 is comitting to 144 because of 1
+true success from 4
+leader 1 committing: 146
+leader 1 committing: 147
+leader 1 committing: 148
+leader 1 committing: 149
+leader 1 committing: 150
+1 thinks it is the leader! with term... 2
+3102 receieved in 1
+3101 receieved in 1
+31 receieved in 1
+3103 receieved in 1
+3100 receieved in 1
+follower 0 is comitting to 145 because of 1
+follower 0 is comitting to 146 because of 1
+follower 0 is comitting to 147 because of 1
+follower 0 is comitting to 148 because of 1
+follower 0 is comitting to 149 because of 1
+true success from 0
+follower 2 is comitting to 145 because of 1
+follower 2 is comitting to 146 because of 1
+follower 2 is comitting to 147 because of 1
+follower 2 is comitting to 148 because of 1
+follower 2 is comitting to 149 because of 1
+true success from 2
+follower 3 is comitting to 145 because of 1
+follower 3 is comitting to 146 because of 1
+follower 3 is comitting to 147 because of 1
+follower 3 is comitting to 148 because of 1
+follower 3 is comitting to 149 because of 1
+follower 4 is comitting to 145 because of 1
+follower 4 is comitting to 146 because of 1
+follower 4 is comitting to 147 because of 1
+follower 4 is comitting to 148 because of 1
+follower 4 is comitting to 149 because of 1
+true success from 4
+leader 1 committing: 151
+leader 1 committing: 152
+leader 1 committing: 153
+leader 1 committing: 154
+leader 1 committing: 155
+1 thinks it is the leader! with term... 2
+32 receieved in 1
+3201 receieved in 1
+3203 receieved in 1
+3202 receieved in 1
+3200 receieved in 1
+follower 0 is comitting to 150 because of 1
+follower 0 is comitting to 151 because of 1
+follower 0 is comitting to 152 because of 1
+follower 0 is comitting to 153 because of 1
+follower 0 is comitting to 154 because of 1
+true success from 0
+follower 2 is comitting to 150 because of 1
+follower 2 is comitting to 151 because of 1
+follower 2 is comitting to 152 because of 1
+follower 2 is comitting to 153 because of 1
+follower 2 is comitting to 154 because of 1
+true success from 2
+follower 3 is comitting to 150 because of 1
+follower 3 is comitting to 151 because of 1
+follower 3 is comitting to 152 because of 1
+follower 3 is comitting to 153 because of 1
+follower 3 is comitting to 154 because of 1
+true success from 3
+follower 4 is comitting to 150 because of 1
+follower 4 is comitting to 151 because of 1
+follower 4 is comitting to 152 because of 1
+follower 4 is comitting to 153 because of 1
+follower 4 is comitting to 154 because of 1
+true success from 4
+leader 1 committing: 156
+leader 1 committing: 157
+leader 1 committing: 158
+leader 1 committing: 159
+leader 1 committing: 160
+1 thinks it is the leader! with term... 2
+33 receieved in 1
+3300 receieved in 1
+3301 receieved in 1
+follower 0 is comitting to 155 because of 1
+follower 0 is comitting to 156 because of 1
+follower 0 is comitting to 157 because of 1
+follower 0 is comitting to 158 because of 1
+follower 0 is comitting to 159 because of 1
+3303 receieved in 1
+3302 receieved in 1
+true success from 0
+follower 2 is comitting to 155 because of 1
+follower 2 is comitting to 156 because of 1
+follower 2 is comitting to 157 because of 1
+follower 2 is comitting to 158 because of 1
+follower 2 is comitting to 159 because of 1
+true success from 2
+follower 3 is comitting to 155 because of 1
+follower 3 is comitting to 156 because of 1
+follower 3 is comitting to 157 because of 1
+follower 3 is comitting to 158 because of 1
+follower 3 is comitting to 159 because of 1
+true success from 3
+follower 4 is comitting to 155 because of 1
+follower 4 is comitting to 156 because of 1
+follower 4 is comitting to 157 because of 1
+follower 4 is comitting to 158 because of 1
+follower 4 is comitting to 159 because of 1
+true success from 4
+leader 1 committing: 161
+leader 1 committing: 162
+leader 1 committing: 163
+leader 1 committing: 164
+leader 1 committing: 165
+1 thinks it is the leader! with term... 2
+34 receieved in 1
+3403 receieved in 1
+3402 receieved in 1
+3401 receieved in 1
+3400 receieved in 1
+follower 0 is comitting to 160 because of 1
+follower 0 is comitting to 161 because of 1
+follower 0 is comitting to 162 because of 1
+follower 0 is comitting to 163 because of 1
+follower 0 is comitting to 164 because of 1
+true success from 0
+follower 3 is comitting to 160 because of 1
+follower 3 is comitting to 161 because of 1
+follower 3 is comitting to 162 because of 1
+follower 3 is comitting to 163 because of 1
+follower 3 is comitting to 164 because of 1
+true success from 3
+follower 4 is comitting to 160 because of 1
+follower 4 is comitting to 161 because of 1
+follower 4 is comitting to 162 because of 1
+follower 4 is comitting to 163 because of 1
+follower 4 is comitting to 164 because of 1
+true success from 4
+leader 1 committing: 166
+leader 1 committing: 167
+leader 1 committing: 168
+leader 1 committing: 169
+leader 1 committing: 170
+heartbeat checked in 0
+1 thinks it is the leader! with term... 2
+35 receieved in 1
+3501 receieved in 1
+3502 receieved in 1
+3503 receieved in 1
+3500 receieved in 1
+follower 0 is comitting to 165 because of 1
+follower 0 is comitting to 166 because of 1
+follower 0 is comitting to 167 because of 1
+follower 0 is comitting to 168 because of 1
+follower 0 is comitting to 169 because of 1
+true success from 0
+follower 2 is comitting to 160 because of 1
+follower 2 is comitting to 161 because of 1
+follower 2 is comitting to 162 because of 1
+follower 2 is comitting to 163 because of 1
+follower 2 is comitting to 164 because of 1
+follower 2 is comitting to 165 because of 1
+follower 2 is comitting to 166 because of 1
+follower 2 is comitting to 167 because of 1
+follower 2 is comitting to 168 because of 1
+follower 2 is comitting to 169 because of 1
+true success from 2
+follower 4 is comitting to 165 because of 1
+follower 4 is comitting to 166 because of 1
+follower 4 is comitting to 167 because of 1
+follower 4 is comitting to 168 because of 1
+follower 4 is comitting to 169 because of 1
+true success from 4
+leader 1 committing: 171
+leader 1 committing: 172
+leader 1 committing: 173
+leader 1 committing: 174
+leader 1 committing: 175
+1 thinks it is the leader! with term... 2
+36 receieved in 1
+3600 receieved in 1
+3603 receieved in 1
+3602 receieved in 1
+3601 receieved in 1
+follower 0 is comitting to 170 because of 1
+follower 0 is comitting to 171 because of 1
+follower 0 is comitting to 172 because of 1
+follower 0 is comitting to 173 because of 1
+follower 0 is comitting to 174 because of 1
+true success from 0
+follower 2 is comitting to 170 because of 1
+follower 2 is comitting to 171 because of 1
+follower 2 is comitting to 172 because of 1
+follower 2 is comitting to 173 because of 1
+follower 2 is comitting to 174 because of 1
+true success from 2
+follower 3 is comitting to 165 because of 1
+follower 3 is comitting to 166 because of 1
+follower 3 is comitting to 167 because of 1
+follower 3 is comitting to 168 because of 1
+follower 3 is comitting to 169 because of 1
+follower 3 is comitting to 170 because of 1
+follower 3 is comitting to 171 because of 1
+follower 3 is comitting to 172 because of 1
+follower 3 is comitting to 173 because of 1
+follower 3 is comitting to 174 because of 1
+1 thinks it is the leader! with term... 2
+true success from 0
+true success from 2
+heartbeat checked in 2
+follower 4 is comitting to 170 because of 1
+follower 4 is comitting to 171 because of 1
+follower 4 is comitting to 172 because of 1
+follower 4 is comitting to 173 because of 1
+follower 4 is comitting to 174 because of 1
+true success from 4
+leader 1 committing: 176
+leader 1 committing: 177
+leader 1 committing: 178
+leader 1 committing: 179
+leader 1 committing: 180
+1 thinks it is the leader! with term... 2
+3701 receieved in 1
+3702 receieved in 1
+3700 receieved in 1
+follower 0 is comitting to 175 because of 1
+follower 0 is comitting to 176 because of 1
+follower 0 is comitting to 177 because of 1
+follower 0 is comitting to 178 because of 1
+follower 0 is comitting to 179 because of 1
+3703 receieved in 1
+37 receieved in 1
+true success from 0
+follower 2 is comitting to 175 because of 1
+follower 2 is comitting to 176 because of 1
+follower 2 is comitting to 177 because of 1
+follower 2 is comitting to 178 because of 1
+follower 2 is comitting to 179 because of 1
+true success from 2
+follower 3 is comitting to 175 because of 1
+follower 3 is comitting to 176 because of 1
+follower 3 is comitting to 177 because of 1
+follower 3 is comitting to 178 because of 1
+follower 3 is comitting to 179 because of 1
+follower 4 is comitting to 175 because of 1
+follower 4 is comitting to 176 because of 1
+follower 4 is comitting to 177 because of 1
+follower 4 is comitting to 178 because of 1
+follower 4 is comitting to 179 because of 1
+true success from 4
+leader 1 committing: 181
+leader 1 committing: 182
+leader 1 committing: 183
+leader 1 committing: 184
+leader 1 committing: 185
+1 thinks it is the leader! with term... 2
+38 receieved in 1
+3803 receieved in 1
+3801 receieved in 1
+heartbeat checked in 4
+3800 receieved in 1
+3802 receieved in 1
+follower 0 is comitting to 180 because of 1
+follower 0 is comitting to 181 because of 1
+follower 0 is comitting to 182 because of 1
+follower 0 is comitting to 183 because of 1
+follower 0 is comitting to 184 because of 1
+true success from 0
+follower 2 is comitting to 180 because of 1
+follower 2 is comitting to 181 because of 1
+follower 2 is comitting to 182 because of 1
+follower 2 is comitting to 183 because of 1
+follower 2 is comitting to 184 because of 1
+true success from 2
+follower 3 is comitting to 180 because of 1
+follower 3 is comitting to 181 because of 1
+follower 3 is comitting to 182 because of 1
+follower 3 is comitting to 183 because of 1
+follower 3 is comitting to 184 because of 1
+true success from 3
+follower 4 is comitting to 180 because of 1
+follower 4 is comitting to 181 because of 1
+follower 4 is comitting to 182 because of 1
+follower 4 is comitting to 183 because of 1
+follower 4 is comitting to 184 because of 1
+true success from 4
+leader 1 committing: 186
+leader 1 committing: 187
+leader 1 committing: 188
+leader 1 committing: 189
+leader 1 committing: 190
+1 thinks it is the leader! with term... 2
+3900 receieved in 1
+39 receieved in 1
+3901 receieved in 1
+follower 0 is comitting to 185 because of 1
+follower 0 is comitting to 186 because of 1
+follower 0 is comitting to 187 because of 1
+follower 0 is comitting to 188 because of 1
+follower 0 is comitting to 189 because of 1
+3903 receieved in 1
+3902 receieved in 1
+true success from 0
+follower 2 is comitting to 185 because of 1
+follower 2 is comitting to 186 because of 1
+follower 2 is comitting to 187 because of 1
+follower 2 is comitting to 188 because of 1
+follower 2 is comitting to 189 because of 1
+true success from 2
+follower 3 is comitting to 185 because of 1
+follower 3 is comitting to 186 because of 1
+follower 3 is comitting to 187 because of 1
+follower 3 is comitting to 188 because of 1
+follower 3 is comitting to 189 because of 1
+true success from 3
+follower 4 is comitting to 185 because of 1
+follower 4 is comitting to 186 because of 1
+follower 4 is comitting to 187 because of 1
+follower 4 is comitting to 188 because of 1
+follower 4 is comitting to 189 because of 1
+true success from 4
+leader 1 committing: 191
+leader 1 committing: 192
+leader 1 committing: 193
+leader 1 committing: 194
+leader 1 committing: 195
+1 thinks it is the leader! with term... 2
+4000 receieved in 1
+40 receieved in 1
+4001 receieved in 1
+4002 receieved in 1
+4003 receieved in 1
+follower 0 is comitting to 190 because of 1
+follower 0 is comitting to 191 because of 1
+follower 0 is comitting to 192 because of 1
+follower 0 is comitting to 193 because of 1
+follower 0 is comitting to 194 because of 1
+true success from 0
+follower 2 is comitting to 190 because of 1
+follower 2 is comitting to 191 because of 1
+follower 2 is comitting to 192 because of 1
+follower 2 is comitting to 193 because of 1
+follower 2 is comitting to 194 because of 1
+true success from 2
+follower 3 is comitting to 190 because of 1
+follower 3 is comitting to 191 because of 1
+follower 3 is comitting to 192 because of 1
+follower 3 is comitting to 193 because of 1
+follower 3 is comitting to 194 because of 1
+true success from 3
+follower 4 is comitting to 190 because of 1
+follower 4 is comitting to 191 because of 1
+follower 4 is comitting to 192 because of 1
+follower 4 is comitting to 193 because of 1
+follower 4 is comitting to 194 because of 1
+true success from 4
+leader 1 committing: 196
+leader 1 committing: 197
+leader 1 committing: 198
+leader 1 committing: 199
+leader 1 committing: 200
+1 thinks it is the leader! with term... 2
+4100 receieved in 1
+41 receieved in 1
+4103 receieved in 1
+4102 receieved in 1
+4101 receieved in 1
+follower 0 is comitting to 195 because of 1
+follower 0 is comitting to 196 because of 1
+follower 0 is comitting to 197 because of 1
+follower 0 is comitting to 198 because of 1
+follower 0 is comitting to 199 because of 1
+true success from 0
+follower 2 is comitting to 195 because of 1
+follower 2 is comitting to 196 because of 1
+follower 2 is comitting to 197 because of 1
+follower 2 is comitting to 198 because of 1
+follower 2 is comitting to 199 because of 1
+true success from 2
+follower 3 is comitting to 195 because of 1
+follower 3 is comitting to 196 because of 1
+follower 3 is comitting to 197 because of 1
+follower 3 is comitting to 198 because of 1
+follower 3 is comitting to 199 because of 1
+true success from 3
+follower 4 is comitting to 195 because of 1
+follower 4 is comitting to 196 because of 1
+follower 4 is comitting to 197 because of 1
+follower 4 is comitting to 198 because of 1
+follower 4 is comitting to 199 because of 1
+true success from 4
+leader 1 committing: 201
+leader 1 committing: 202
+leader 1 committing: 203
+leader 1 committing: 204
+leader 1 committing: 205
+1 thinks it is the leader! with term... 2
+42 receieved in 1
+4200 receieved in 1
+4203 receieved in 1
+4201 receieved in 1
+4202 receieved in 1
+follower 0 is comitting to 200 because of 1
+follower 0 is comitting to 201 because of 1
+follower 0 is comitting to 202 because of 1
+follower 0 is comitting to 203 because of 1
+follower 0 is comitting to 204 because of 1
+true success from 0
+follower 2 is comitting to 200 because of 1
+follower 2 is comitting to 201 because of 1
+follower 2 is comitting to 202 because of 1
+follower 2 is comitting to 203 because of 1
+follower 2 is comitting to 204 because of 1
+follower 3 is comitting to 200 because of 1
+follower 3 is comitting to 201 because of 1
+follower 3 is comitting to 202 because of 1
+follower 3 is comitting to 203 because of 1
+follower 3 is comitting to 204 because of 1
+true success from 3
+follower 4 is comitting to 200 because of 1
+follower 4 is comitting to 201 because of 1
+follower 4 is comitting to 202 because of 1
+follower 4 is comitting to 203 because of 1
+follower 4 is comitting to 204 because of 1
+true success from 4
+leader 1 committing: 206
+leader 1 committing: 207
+leader 1 committing: 208
+leader 1 committing: 209
+leader 1 committing: 210
+1 thinks it is the leader! with term... 2
+4300 receieved in 1
+4302 receieved in 1
+43 receieved in 1
+4303 receieved in 1
+4301 receieved in 1
+follower 0 is comitting to 205 because of 1
+follower 0 is comitting to 206 because of 1
+follower 0 is comitting to 207 because of 1
+follower 0 is comitting to 208 because of 1
+follower 0 is comitting to 209 because of 1
+true success from 0
+heartbeat checked in 3
+follower 3 is comitting to 205 because of 1
+follower 3 is comitting to 206 because of 1
+follower 3 is comitting to 207 because of 1
+follower 3 is comitting to 208 because of 1
+follower 3 is comitting to 209 because of 1
+true success from 3
+follower 4 is comitting to 205 because of 1
+follower 4 is comitting to 206 because of 1
+follower 4 is comitting to 207 because of 1
+follower 4 is comitting to 208 because of 1
+follower 4 is comitting to 209 because of 1
+true success from 4
+leader 1 committing: 211
+leader 1 committing: 212
+leader 1 committing: 213
+leader 1 committing: 214
+leader 1 committing: 215
+1 thinks it is the leader! with term... 2
+44 receieved in 1
+4402 receieved in 1
+4401 receieved in 1
+4403 receieved in 1
+4400 receieved in 1
+follower 0 is comitting to 210 because of 1
+follower 0 is comitting to 211 because of 1
+follower 0 is comitting to 212 because of 1
+follower 0 is comitting to 213 because of 1
+follower 0 is comitting to 214 because of 1
+true success from 0
+follower 2 is comitting to 205 because of 1
+follower 2 is comitting to 206 because of 1
+follower 2 is comitting to 207 because of 1
+follower 2 is comitting to 208 because of 1
+follower 2 is comitting to 209 because of 1
+follower 2 is comitting to 210 because of 1
+follower 2 is comitting to 211 because of 1
+follower 2 is comitting to 212 because of 1
+follower 2 is comitting to 213 because of 1
+follower 2 is comitting to 214 because of 1
+true success from 2
+follower 3 is comitting to 210 because of 1
+follower 3 is comitting to 211 because of 1
+follower 3 is comitting to 212 because of 1
+follower 3 is comitting to 213 because of 1
+follower 3 is comitting to 214 because of 1
+true success from 3
+leader 1 committing: 216
+leader 1 committing: 217
+leader 1 committing: 218
+leader 1 committing: 219
+leader 1 committing: 220
+1 thinks it is the leader! with term... 2
+4500 receieved in 1
+45 receieved in 1
+4502 receieved in 1
+4501 receieved in 1
+4503 receieved in 1
+follower 2 is comitting to 215 because of 1
+follower 2 is comitting to 216 because of 1
+follower 2 is comitting to 217 because of 1
+follower 2 is comitting to 218 because of 1
+follower 2 is comitting to 219 because of 1
+true success from 2
+follower 3 is comitting to 215 because of 1
+follower 3 is comitting to 216 because of 1
+follower 3 is comitting to 217 because of 1
+follower 3 is comitting to 218 because of 1
+follower 3 is comitting to 219 because of 1
+true success from 3
+follower 4 is comitting to 210 because of 1
+follower 4 is comitting to 211 because of 1
+follower 4 is comitting to 212 because of 1
+follower 4 is comitting to 213 because of 1
+follower 4 is comitting to 214 because of 1
+follower 4 is comitting to 215 because of 1
+follower 4 is comitting to 216 because of 1
+follower 4 is comitting to 217 because of 1
+follower 4 is comitting to 218 because of 1
+follower 4 is comitting to 219 because of 1
+true success from 4
+leader 1 committing: 221
+leader 1 committing: 222
+leader 1 committing: 223
+leader 1 committing: 224
+leader 1 committing: 225
+1 thinks it is the leader! with term... 2
+4600 receieved in 1
+4602 receieved in 1
+46 receieved in 1
+4601 receieved in 1
+4603 receieved in 1
+follower 0 is comitting to 215 because of 1
+follower 0 is comitting to 216 because of 1
+follower 0 is comitting to 217 because of 1
+follower 0 is comitting to 218 because of 1
+follower 0 is comitting to 219 because of 1
+follower 0 is comitting to 220 because of 1
+follower 0 is comitting to 221 because of 1
+follower 0 is comitting to 222 because of 1
+follower 0 is comitting to 223 because of 1
+follower 0 is comitting to 224 because of 1
+true success from 0
+follower 2 is comitting to 220 because of 1
+follower 2 is comitting to 221 because of 1
+follower 2 is comitting to 222 because of 1
+follower 2 is comitting to 223 because of 1
+follower 2 is comitting to 224 because of 1
+follower 3 is comitting to 220 because of 1
+follower 3 is comitting to 221 because of 1
+follower 3 is comitting to 222 because of 1
+follower 3 is comitting to 223 because of 1
+follower 3 is comitting to 224 because of 1
+true success from 3
+follower 4 is comitting to 220 because of 1
+follower 4 is comitting to 221 because of 1
+follower 4 is comitting to 222 because of 1
+follower 4 is comitting to 223 because of 1
+follower 4 is comitting to 224 because of 1
+true success from 4
+leader 1 committing: 226
+leader 1 committing: 227
+leader 1 committing: 228
+leader 1 committing: 229
+leader 1 committing: 230
+1 thinks it is the leader! with term... 2
+4700 receieved in 1
+47 receieved in 1
+4703 receieved in 1
+4702 receieved in 1
+4701 receieved in 1
+follower 0 is comitting to 225 because of 1
+follower 0 is comitting to 226 because of 1
+follower 0 is comitting to 227 because of 1
+follower 0 is comitting to 228 because of 1
+follower 0 is comitting to 229 because of 1
+heartbeat checked in 0
+follower 2 is comitting to 225 because of 1
+follower 2 is comitting to 226 because of 1
+follower 2 is comitting to 227 because of 1
+follower 2 is comitting to 228 because of 1
+follower 2 is comitting to 229 because of 1
+true success from 2
+follower 3 is comitting to 225 because of 1
+follower 3 is comitting to 226 because of 1
+follower 3 is comitting to 227 because of 1
+follower 3 is comitting to 228 because of 1
+follower 3 is comitting to 229 because of 1
+true success from 3
+follower 4 is comitting to 225 because of 1
+follower 4 is comitting to 226 because of 1
+follower 4 is comitting to 227 because of 1
+follower 4 is comitting to 228 because of 1
+follower 4 is comitting to 229 because of 1
+true success from 4
+leader 1 committing: 231
+leader 1 committing: 232
+leader 1 committing: 233
+leader 1 committing: 234
+leader 1 committing: 235
+1 thinks it is the leader! with term... 2
+4800 receieved in 1
+4801 receieved in 1
+4803 receieved in 1
+48 receieved in 1
+4802 receieved in 1
+follower 0 is comitting to 230 because of 1
+follower 0 is comitting to 231 because of 1
+follower 0 is comitting to 232 because of 1
+follower 0 is comitting to 233 because of 1
+follower 0 is comitting to 234 because of 1
+true success from 0
+follower 2 is comitting to 230 because of 1
+follower 2 is comitting to 231 because of 1
+follower 2 is comitting to 232 because of 1
+follower 2 is comitting to 233 because of 1
+follower 2 is comitting to 234 because of 1
+true success from 2
+follower 3 is comitting to 230 because of 1
+follower 3 is comitting to 231 because of 1
+follower 3 is comitting to 232 because of 1
+follower 3 is comitting to 233 because of 1
+follower 3 is comitting to 234 because of 1
+true success from 3
+follower 4 is comitting to 230 because of 1
+follower 4 is comitting to 231 because of 1
+follower 4 is comitting to 232 because of 1
+follower 4 is comitting to 233 because of 1
+follower 4 is comitting to 234 because of 1
+true success from 4
+leader 1 committing: 236
+leader 1 committing: 237
+leader 1 committing: 238
+leader 1 committing: 239
+leader 1 committing: 240
+1 thinks it is the leader! with term... 2
+4900 receieved in 1
+4901 receieved in 1
+4902 receieved in 1
+49 receieved in 1
+4903 receieved in 1
+follower 0 is comitting to 235 because of 1
+follower 0 is comitting to 236 because of 1
+follower 0 is comitting to 237 because of 1
+follower 0 is comitting to 238 because of 1
+follower 0 is comitting to 239 because of 1
+true success from 0
+follower 2 is comitting to 235 because of 1
+follower 2 is comitting to 236 because of 1
+follower 2 is comitting to 237 because of 1
+follower 2 is comitting to 238 because of 1
+follower 2 is comitting to 239 because of 1
+true success from 2
+follower 3 is comitting to 235 because of 1
+follower 3 is comitting to 236 because of 1
+follower 3 is comitting to 237 because of 1
+follower 3 is comitting to 238 because of 1
+follower 3 is comitting to 239 because of 1
+follower 4 is comitting to 235 because of 1
+follower 4 is comitting to 236 because of 1
+follower 4 is comitting to 237 because of 1
+follower 4 is comitting to 238 because of 1
+follower 4 is comitting to 239 because of 1
+true success from 4
+leader 1 committing: 241
+leader 1 committing: 242
+leader 1 committing: 243
+leader 1 committing: 244
+leader 1 committing: 245
+1 thinks it is the leader! with term... 2
+100 receieved in 1
+follower 0 is comitting to 240 because of 1
+follower 0 is comitting to 241 because of 1
+follower 0 is comitting to 242 because of 1
+follower 0 is comitting to 243 because of 1
+follower 0 is comitting to 244 because of 1
+true success from 0
+follower 2 is comitting to 240 because of 1
+follower 2 is comitting to 241 because of 1
+follower 2 is comitting to 242 because of 1
+follower 2 is comitting to 243 because of 1
+follower 2 is comitting to 244 because of 1
+true success from 2
+follower 3 is comitting to 240 because of 1
+follower 3 is comitting to 241 because of 1
+follower 3 is comitting to 242 because of 1
+follower 3 is comitting to 243 because of 1
+follower 3 is comitting to 244 because of 1
+true success from 3
+follower 4 is comitting to 240 because of 1
+follower 4 is comitting to 241 because of 1
+follower 4 is comitting to 242 because of 1
+follower 4 is comitting to 243 because of 1
+follower 4 is comitting to 244 because of 1
+true success from 4
+leader 1 committing: 246
+1 thinks it is the leader! with term... 2
+follower 0 is comitting to 245 because of 1
+true success from 0
+follower 2 is comitting to 245 because of 1
+true success from 2
+follower 3 is comitting to 245 because of 1
+true success from 3
+follower 4 is comitting to 245 because of 1
+true success from 4
+  ... Passed --  10.3  5  232  441890  246
+Test (2C): Figure 8 (unreliable) ...
+1 thinks it is the leader! with term... 2
+heartbeat checked in 2
+heartbeat checked in 4
+heartbeat checked in 3
+heartbeat checked in 0
+4 is leader!!!!
+108 receieved in 4
+4 is leader!!!!
+4 thinks it is the leader! with term... 2
+false success from 0
+false success from 1
+false success from 2
+false success from 3
+heartbeat checked in 3
+4 thinks it is the leader! with term... 2
+true success from 0
+true success from 1
+true success from 2
+true success from 3
+leader 4 committing: 1
+4 thinks it is the leader! with term... 2
+2519 receieved in 4
+1346 receieved in 4
+6907 receieved in 4
+1377 receieved in 4
+558 receieved in 4
+follower 0 is comitting to 0 because of 4
+5616 receieved in 4
+7230 receieved in 4
+7928 receieved in 4
+5787 receieved in 4
+7174 receieved in 4
+870 receieved in 4
+1399 receieved in 4
+5343 receieved in 4
+7758 receieved in 4
+6404 receieved in 4
+2350 receieved in 4
+3674 receieved in 4
+5502 receieved in 4
+4015 receieved in 4
+6807 receieved in 4
+4 thinks it is the leader! with term... 2
+5226 receieved in 4
+1748 receieved in 4
+658 receieved in 4
+1864 receieved in 4
+9740 receieved in 4
+1423 receieved in 4
+4325 receieved in 4
+9379 receieved in 4
+2043 receieved in 4
+910 receieved in 4
+7881 receieved in 4
+4 thinks it is the leader! with term... 2
+3479 receieved in 4
+8866 receieved in 4
+9780 receieved in 4
+7305 receieved in 4
+4 thinks it is the leader! with term... 2
+heartbeat checked in 1
+4 thinks it is the leader! with term... 2
+heartbeat checked in 3
+7607 receieved in 4
+4696 receieved in 4
+9980 receieved in 4
+8284 receieved in 4
+9137 receieved in 4
+8304 receieved in 4
+3053 receieved in 4
+6057 receieved in 4
+9214 receieved in 4
+327 receieved in 4
+7028 receieved in 4
+9821 receieved in 4
+3924 receieved in 4
+7608 receieved in 4
+263 receieved in 4
+3070 receieved in 4
+7652 receieved in 4
+1001 receieved in 4
+6016 receieved in 4
+3519 receieved in 4
+1148 receieved in 4
+4 thinks it is the leader! with term... 2
+5422 receieved in 4
+3117 receieved in 4
+7924 receieved in 4
+9181 receieved in 4
+3249 receieved in 4
+3943 receieved in 4
+1759 receieved in 4
+2469 receieved in 4
+7998 receieved in 4
+2305 receieved in 4
+9638 receieved in 4
+4902 receieved in 4
+6473 receieved in 4
+1115 receieved in 4
+6350 receieved in 4
+7698 receieved in 4
+7245 receieved in 4
+6958 receieved in 4
+4 thinks it is the leader! with term... 2
+8923 receieved in 4
+7570 receieved in 4
+5746 receieved in 4
+8862 receieved in 4
+5886 receieved in 4
+4 thinks it is the leader! with term... 2
+7662 receieved in 4
+8881 receieved in 4
+1492 receieved in 4
+1258 receieved in 4
+1726 receieved in 4
+5205 receieved in 4
+4 thinks it is the leader! with term... 2
+4621 receieved in 4
+4 thinks it is the leader! with term... 2
+8869 receieved in 4
+8653 receieved in 4
+4677 receieved in 4
+7809 receieved in 4
+9054 receieved in 4
+4354 receieved in 4
+1632 receieved in 4
+4 thinks it is the leader! with term... 2
+7444 receieved in 4
+7060 receieved in 4
+1240 receieved in 4
+8412 receieved in 4
+4112 receieved in 4
+4957 receieved in 4
+8638 receieved in 4
+3679 receieved in 4
+6943 receieved in 4
+3818 receieved in 4
+8324 receieved in 4
+4 thinks it is the leader! with term... 2
+3457 receieved in 4
+3907 receieved in 4
+8351 receieved in 4
+4 thinks it is the leader! with term... 2
+6459 receieved in 4
+5932 receieved in 4
+9125 receieved in 4
+2956 receieved in 4
+1814 receieved in 4
+3197 receieved in 4
+1992 receieved in 4
+3781 receieved in 4
+8835 receieved in 4
+685 receieved in 4
+9546 receieved in 4
+6753 receieved in 4
+5453 receieved in 4
+3 is leader!!!!
+4 thinks it is the leader! with term... 2
+4881 receieved in 4
+3 thinks it is the leader! with term... 3
+true success from 1
+3 thinks it is the leader! with term... 3
+true success from 0
+3 thinks it is the leader! with term... 3
+true success from 0
+4 thinks it is the leader! with term... 2
+true success from 2
+leader 3 committing: 1
+3 thinks it is the leader! with term... 3
+7207 receieved in 3
+5399 receieved in 4
+true success from 0
+follower 1 is comitting to 0 because of 3
+true success from 1
+9529 receieved in 3
+1829 receieved in 4
+1515 receieved in 3
+1798 receieved in 4
+follower 2 is comitting to 0 because of 3
+382 receieved in 3
+9650 receieved in 4
+7206 receieved in 3
+287 receieved in 4
+3916 receieved in 3
+5589 receieved in 4
+2630 receieved in 3
+8711 receieved in 4
+3 thinks it is the leader! with term... 3
+2590 receieved in 3
+4 thinks it is the leader! with term... 2
+2747 receieved in 4
+8489 receieved in 3
+4043 receieved in 4
+2845 receieved in 3
+7838 receieved in 4
+3 thinks it is the leader! with term... 3
+7966 receieved in 3
+4672 receieved in 4
+3704 receieved in 3
+2840 receieved in 4
+9142 receieved in 3
+8653 receieved in 4
+5673 receieved in 3
+1042 receieved in 4
+4454 receieved in 3
+4304 receieved in 4
+3935 receieved in 3
+7048 receieved in 4
+4356 receieved in 3
+5069 receieved in 4
+1195 receieved in 3
+9840 receieved in 4
+6622 receieved in 3
+9869 receieved in 4
+6680 receieved in 3
+9810 receieved in 4
+8583 receieved in 3
+4 thinks it is the leader! with term... 2
+5616 receieved in 4
+6943 receieved in 3
+870 receieved in 4
+499 receieved in 3
+6884 receieved in 4
+2753 receieved in 3
+8326 receieved in 4
+4439 receieved in 3
+2428 receieved in 4
+7529 receieved in 3
+3933 receieved in 4
+9759 receieved in 3
+9301 receieved in 4
+7814 receieved in 3
+7518 receieved in 4
+6719 receieved in 3
+105 receieved in 4
+3913 receieved in 3
+386 receieved in 4
+7658 receieved in 3
+4989 receieved in 4
+4 thinks it is the leader! with term... 2
+3 thinks it is the leader! with term... 3
+5897 receieved in 3
+13 receieved in 4
+75 receieved in 3
+7833 receieved in 4
+1340 receieved in 3
+5282 receieved in 4
+1763 receieved in 3
+6665 receieved in 4
+2987 receieved in 3
+1266 receieved in 4
+8400 receieved in 3
+4 thinks it is the leader! with term... 2
+5866 receieved in 4
+3 thinks it is the leader! with term... 3
+1074 receieved in 3
+6664 receieved in 4
+2711 receieved in 3
+6561 receieved in 4
+8940 receieved in 3
+7098 receieved in 4
+2441 receieved in 3
+4219 receieved in 4
+5660 receieved in 3
+5178 receieved in 4
+2206 receieved in 3
+5433 receieved in 4
+4445 receieved in 3
+1674 receieved in 4
+5878 receieved in 3
+2164 receieved in 4
+5049 receieved in 3
+3748 receieved in 4
+6549 receieved in 3
+4111 receieved in 4
+7255 receieved in 3
+6606 receieved in 4
+203 receieved in 3
+1643 receieved in 4
+9650 receieved in 3
+1108 receieved in 4
+5755 receieved in 3
+7232 receieved in 4
+3796 receieved in 3
+4 thinks it is the leader! with term... 2
+5890 receieved in 4
+6388 receieved in 3
+7712 receieved in 4
+7271 receieved in 3
+1486 receieved in 4
+6536 receieved in 3
+1439 receieved in 4
+5251 receieved in 3
+5082 receieved in 4
+3 thinks it is the leader! with term... 3
+5634 receieved in 3
+4874 receieved in 4
+5851 receieved in 3
+4402 receieved in 4
+114 receieved in 3
+8481 receieved in 4
+4995 receieved in 3
+1301 receieved in 4
+788 receieved in 3
+9017 receieved in 4
+3703 receieved in 3
+2550 receieved in 4
+6688 receieved in 3
+3188 receieved in 4
+8426 receieved in 3
+9181 receieved in 4
+6903 receieved in 3
+198 receieved in 4
+3422 receieved in 3
+1155 receieved in 4
+4090 receieved in 3
+2580 receieved in 4
+3 thinks it is the leader! with term... 3
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+3 thinks it is the leader! with term... 3
+1888 receieved in 3
+3815 receieved in 4
+3210 receieved in 3
+6162 receieved in 4
+7197 receieved in 3
+8135 receieved in 4
+5421 receieved in 3
+6166 receieved in 4
+3145 receieved in 3
+4 thinks it is the leader! with term... 2
+2798 receieved in 4
+576 receieved in 3
+5647 receieved in 4
+8109 receieved in 3
+5757 receieved in 4
+9392 receieved in 3
+4913 receieved in 4
+1112 receieved in 3
+1727 receieved in 4
+39 receieved in 3
+7028 receieved in 4
+832 receieved in 3
+79 receieved in 4
+6533 receieved in 3
+5471 receieved in 4
+1907 receieved in 3
+5188 receieved in 4
+3176 receieved in 3
+6502 receieved in 4
+8685 receieved in 3
+408 receieved in 4
+3 thinks it is the leader! with term... 3
+3 thinks it is the leader! with term... 3
+4 thinks it is the leader! with term... 2
+9181 receieved in 3
+8600 receieved in 4
+5027 receieved in 3
+7437 receieved in 4
+8376 receieved in 3
+4302 receieved in 4
+8540 receieved in 3
+4029 receieved in 4
+1771 receieved in 3
+2706 receieved in 4
+6257 receieved in 3
+4107 receieved in 4
+7914 receieved in 3
+6779 receieved in 4
+7797 receieved in 3
+1909 receieved in 4
+7353 receieved in 3
+4437 receieved in 4
+7893 receieved in 3
+5832 receieved in 4
+4416 receieved in 3
+6807 receieved in 4
+8115 receieved in 3
+4617 receieved in 4
+3717 receieved in 3
+1708 receieved in 4
+2782 receieved in 3
+5362 receieved in 4
+2652 receieved in 3
+8435 receieved in 4
+5291 receieved in 3
+4026 receieved in 4
+9323 receieved in 3
+4 thinks it is the leader! with term... 2
+5517 receieved in 4
+3 thinks it is the leader! with term... 3
+3740 receieved in 3
+7139 receieved in 4
+7165 receieved in 3
+151 receieved in 4
+8745 receieved in 3
+7706 receieved in 4
+7637 receieved in 3
+4486 receieved in 4
+8977 receieved in 3
+8806 receieved in 4
+189 receieved in 3
+5955 receieved in 4
+8280 receieved in 3
+2160 receieved in 4
+614 receieved in 3
+1944 receieved in 4
+4079 receieved in 3
+3410 receieved in 4
+4522 receieved in 3
+8253 receieved in 4
+9692 receieved in 3
+336 receieved in 4
+4 thinks it is the leader! with term... 2
+3 thinks it is the leader! with term... 3
+5788 receieved in 3
+8496 receieved in 4
+3628 receieved in 3
+3037 receieved in 4
+3060 receieved in 3
+4610 receieved in 4
+2520 receieved in 3
+5464 receieved in 4
+1273 receieved in 3
+1913 receieved in 4
+4312 receieved in 3
+7921 receieved in 4
+8497 receieved in 3
+7311 receieved in 4
+923 receieved in 3
+3072 receieved in 4
+4 thinks it is the leader! with term... 2
+3 thinks it is the leader! with term... 3
+3 thinks it is the leader! with term... 3
+8092 receieved in 3
+4 thinks it is the leader! with term... 2
+8656 receieved in 4
+5703 receieved in 3
+7353 receieved in 4
+5047 receieved in 3
+2047 receieved in 4
+9710 receieved in 3
+6477 receieved in 4
+5082 receieved in 3
+6446 receieved in 4
+2720 receieved in 3
+6702 receieved in 4
+7881 receieved in 3
+3174 receieved in 4
+3057 receieved in 3
+6129 receieved in 4
+1061 receieved in 3
+4071 receieved in 4
+1729 receieved in 3
+6798 receieved in 4
+9996 receieved in 3
+824 receieved in 4
+3 thinks it is the leader! with term... 3
+1154 receieved in 3
+4 thinks it is the leader! with term... 2
+7329 receieved in 4
+7519 receieved in 3
+93 receieved in 4
+2400 receieved in 3
+1151 receieved in 4
+8983 receieved in 3
+3001 receieved in 4
+8624 receieved in 3
+1839 receieved in 4
+3082 receieved in 3
+8780 receieved in 4
+6234 receieved in 3
+1911 receieved in 4
+6701 receieved in 3
+4599 receieved in 4
+2643 receieved in 3
+4 thinks it is the leader! with term... 2
+5925 receieved in 4
+3 thinks it is the leader! with term... 3
+4778 receieved in 3
+6391 receieved in 4
+8500 receieved in 3
+616 receieved in 4
+5639 receieved in 3
+2785 receieved in 4
+5686 receieved in 3
+6864 receieved in 4
+9474 receieved in 3
+9377 receieved in 4
+3 thinks it is the leader! with term... 3
+4 thinks it is the leader! with term... 2
+4184 receieved in 3
+8199 receieved in 4
+5559 receieved in 3
+863 receieved in 4
+2452 receieved in 3
+3801 receieved in 4
+3 thinks it is the leader! with term... 3
+4096 receieved in 3
+4 thinks it is the leader! with term... 2
+2356 receieved in 4
+6910 receieved in 3
+4164 receieved in 4
+576 receieved in 3
+3645 receieved in 4
+4743 receieved in 3
+140 receieved in 4
+981 receieved in 3
+3350 receieved in 4
+3184 receieved in 3
+7120 receieved in 4
+9955 receieved in 3
+1059 receieved in 4
+4776 receieved in 3
+7171 receieved in 4
+7959 receieved in 3
+4291 receieved in 4
+6519 receieved in 3
+4 thinks it is the leader! with term... 2
+4276 receieved in 4
+3 thinks it is the leader! with term... 3
+3605 receieved in 3
+5966 receieved in 4
+3566 receieved in 3
+2149 receieved in 4
+8373 receieved in 3
+132 receieved in 4
+9220 receieved in 3
+8677 receieved in 4
+6719 receieved in 3
+9879 receieved in 4
+7116 receieved in 3
+7999 receieved in 4
+463 receieved in 3
+3091 receieved in 4
+6454 receieved in 3
+9058 receieved in 4
+4609 receieved in 3
+5458 receieved in 4
+6930 receieved in 3
+1751 receieved in 4
+3279 receieved in 3
+9153 receieved in 4
+1344 receieved in 3
+5076 receieved in 4
+6721 receieved in 3
+7612 receieved in 4
+9961 receieved in 3
+8899 receieved in 4
+8643 receieved in 3
+2391 receieved in 4
+3 thinks it is the leader! with term... 3
+1778 receieved in 3
+4 thinks it is the leader! with term... 2
+6336 receieved in 4
+4 thinks it is the leader! with term... 2
+5280 receieved in 3
+8895 receieved in 4
+5835 receieved in 3
+9055 receieved in 4
+3 thinks it is the leader! with term... 3
+3 thinks it is the leader! with term... 3
+4 thinks it is the leader! with term... 2
+3 thinks it is the leader! with term... 3
+7595 receieved in 3
+4480 receieved in 4
+4674 receieved in 3
+4187 receieved in 4
+1026 receieved in 3
+230 receieved in 4
+830 receieved in 3
+8045 receieved in 4
+6393 receieved in 3
+1977 receieved in 4
+7494 receieved in 3
+5276 receieved in 4
+3919 receieved in 3
+7183 receieved in 4
+4651 receieved in 3
+8878 receieved in 4
+7880 receieved in 3
+145 receieved in 4
+3 thinks it is the leader! with term... 3
+1414 receieved in 3
+4 thinks it is the leader! with term... 2
+8526 receieved in 4
+5460 receieved in 3
+2830 receieved in 4
+3625 receieved in 3
+7179 receieved in 4
+6221 receieved in 3
+7442 receieved in 4
+5005 receieved in 3
+9328 receieved in 4
+5646 receieved in 3
+5588 receieved in 4
+4 thinks it is the leader! with term... 2
+3 thinks it is the leader! with term... 3
+1132 receieved in 3
+4 thinks it is the leader! with term... 2
+9826 receieved in 4
+3 thinks it is the leader! with term... 3
+3395 receieved in 3
+1926 receieved in 4
+1 is leader!!!!
+4 thinks it is the leader! with term... 2
+3 thinks it is the leader! with term... 3
+9609 receieved in 1
+5047 receieved in 3
+9161 receieved in 4
+3727 receieved in 1
+3 thinks it is the leader! with term... 3
+1560 receieved in 3
+4 thinks it is the leader! with term... 2
+4983 receieved in 4
+9000 receieved in 1
+7623 receieved in 3
+2054 receieved in 4
+9502 receieved in 1
+5702 receieved in 3
+5577 receieved in 4
+1994 receieved in 1
+5226 receieved in 3
+7609 receieved in 4
+heartbeat checked in 0
+false success from 2
+8036 receieved in 1
+2338 receieved in 4
+6807 receieved in 1
+5193 receieved in 4
+9370 receieved in 1
+6882 receieved in 4
+4754 receieved in 1
+4 thinks it is the leader! with term... 2
+3965 receieved in 4
+292 receieved in 4
+9248 receieved in 4
+3810 receieved in 4
+4 thinks it is the leader! with term... 2
+5443 receieved in 4
+5786 receieved in 4
+7458 receieved in 4
+8258 receieved in 4
+1946 receieved in 4
+5860 receieved in 4
+4 thinks it is the leader! with term... 2
+353 receieved in 4
+2180 receieved in 4
+4085 receieved in 4
+2460 receieved in 4
+heartbeat checked in 3
+4 thinks it is the leader! with term... 2
+4221 receieved in 4
+3075 receieved in 4
+6782 receieved in 4
+3320 receieved in 4
+8191 receieved in 4
+3396 receieved in 4
+3464 receieved in 4
+9929 receieved in 4
+4687 receieved in 4
+2146 receieved in 4
+4772 receieved in 4
+4 thinks it is the leader! with term... 2
+5277 receieved in 4
+5165 receieved in 4
+7783 receieved in 4
+9720 receieved in 4
+3317 receieved in 4
+4 thinks it is the leader! with term... 2
+9790 receieved in 4
+3037 receieved in 4
+7091 receieved in 4
+8419 receieved in 4
+5809 receieved in 4
+5171 receieved in 4
+4 thinks it is the leader! with term... 2
+6626 receieved in 4
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+5598 receieved in 4
+6380 receieved in 4
+392 receieved in 4
+5844 receieved in 4
+8768 receieved in 4
+4449 receieved in 4
+3285 receieved in 4
+3807 receieved in 4
+779 receieved in 4
+1467 receieved in 4
+1807 receieved in 4
+4 thinks it is the leader! with term... 2
+3559 receieved in 4
+5162 receieved in 4
+6234 receieved in 4
+9124 receieved in 4
+8965 receieved in 4
+2149 receieved in 4
+6633 receieved in 4
+5246 receieved in 4
+9438 receieved in 4
+8881 receieved in 4
+9354 receieved in 4
+4263 receieved in 4
+7314 receieved in 4
+4232 receieved in 4
+7223 receieved in 4
+4 thinks it is the leader! with term... 2
+2952 receieved in 4
+1157 receieved in 4
+9497 receieved in 4
+3656 receieved in 4
+7351 receieved in 4
+845 receieved in 4
+9502 receieved in 4
+1546 receieved in 4
+7126 receieved in 4
+4839 receieved in 4
+8045 receieved in 4
+1167 receieved in 4
+6209 receieved in 4
+7794 receieved in 4
+5050 receieved in 4
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+8554 receieved in 4
+5363 receieved in 4
+2146 receieved in 4
+9567 receieved in 4
+3491 receieved in 4
+1627 receieved in 4
+551 receieved in 4
+7139 receieved in 4
+4 thinks it is the leader! with term... 2
+5344 receieved in 4
+1423 receieved in 4
+505 receieved in 4
+6291 receieved in 4
+8668 receieved in 4
+1027 receieved in 4
+4322 receieved in 4
+7208 receieved in 4
+2944 receieved in 4
+2423 receieved in 4
+4 thinks it is the leader! with term... 2
+619 receieved in 4
+4700 receieved in 4
+5278 receieved in 4
+7091 receieved in 4
+892 receieved in 4
+8991 receieved in 4
+4 thinks it is the leader! with term... 2
+1842 receieved in 4
+9117 receieved in 4
+8794 receieved in 4
+8825 receieved in 4
+8771 receieved in 4
+4555 receieved in 4
+8641 receieved in 4
+5178 receieved in 4
+6876 receieved in 4
+7057 receieved in 4
+3076 receieved in 4
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+6679 receieved in 4
+9610 receieved in 4
+2679 receieved in 4
+4 thinks it is the leader! with term... 2
+47 receieved in 4
+6965 receieved in 4
+9319 receieved in 4
+heartbeat checked in 0
+1289 receieved in 4
+3225 receieved in 4
+6926 receieved in 4
+6914 receieved in 4
+7748 receieved in 4
+8953 receieved in 4
+4 thinks it is the leader! with term... 2
+3429 receieved in 4
+2583 receieved in 4
+9398 receieved in 4
+3429 receieved in 4
+1753 receieved in 4
+3605 receieved in 4
+8609 receieved in 4
+1139 receieved in 4
+5811 receieved in 4
+5217 receieved in 4
+2208 receieved in 4
+9734 receieved in 4
+4221 receieved in 4
+7767 receieved in 4
+5314 receieved in 4
+7892 receieved in 4
+9291 receieved in 4
+7741 receieved in 4
+6936 receieved in 4
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+7611 receieved in 4
+9843 receieved in 4
+857 receieved in 4
+8916 receieved in 4
+8876 receieved in 4
+2114 receieved in 4
+585 receieved in 4
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+2558 receieved in 4
+8777 receieved in 4
+1183 receieved in 4
+1996 receieved in 4
+6224 receieved in 4
+1418 receieved in 4
+4778 receieved in 4
+816 receieved in 4
+3668 receieved in 4
+heartbeat checked in 0
+6861 receieved in 4
+7899 receieved in 4
+8738 receieved in 4
+6580 receieved in 4
+3 is leader!!!!
+4430 receieved in 3
+9543 receieved in 4
+7170 receieved in 3
+4191 receieved in 4
+188 receieved in 3
+458 receieved in 4
+1976 receieved in 4
+4 thinks it is the leader! with term... 2
+1157 receieved in 4
+1905 receieved in 4
+3295 receieved in 4
+6889 receieved in 4
+1929 receieved in 4
+536 receieved in 4
+6953 receieved in 4
+4 thinks it is the leader! with term... 2
+7896 receieved in 4
+8853 receieved in 4
+2125 receieved in 4
+4 thinks it is the leader! with term... 2
+969 receieved in 4
+4 thinks it is the leader! with term... 2
+heartbeat checked in 0
+4 thinks it is the leader! with term... 2
+1304 receieved in 4
+1909 receieved in 4
+7679 receieved in 4
+1094 receieved in 4
+81 receieved in 4
+2665 receieved in 4
+2791 receieved in 4
+3940 receieved in 4
+7796 receieved in 4
+4296 receieved in 4
+4970 receieved in 4
+799 receieved in 4
+648 receieved in 4
+9621 receieved in 4
+5946 receieved in 4
+6847 receieved in 4
+4759 receieved in 4
+4795 receieved in 4
+7398 receieved in 4
+4 thinks it is the leader! with term... 2
+1928 receieved in 4
+613 receieved in 4
+2159 receieved in 4
+6696 receieved in 4
+9182 receieved in 4
+heartbeat checked in 2
+8702 receieved in 4
+6505 receieved in 4
+7048 receieved in 4
+3738 receieved in 4
+5191 receieved in 4
+1055 receieved in 4
+1753 receieved in 4
+8998 receieved in 4
+9603 receieved in 4
+5223 receieved in 4
+3691 receieved in 4
+3550 receieved in 4
+2744 receieved in 4
+4 thinks it is the leader! with term... 2
+3867 receieved in 4
+3485 receieved in 4
+715 receieved in 4
+5707 receieved in 4
+5484 receieved in 4
+5229 receieved in 4
+8695 receieved in 4
+4906 receieved in 4
+1217 receieved in 4
+9066 receieved in 4
+1393 receieved in 4
+4496 receieved in 4
+2218 receieved in 4
+6193 receieved in 4
+3584 receieved in 4
+4 thinks it is the leader! with term... 2
+6489 receieved in 4
+1117 receieved in 4
+8113 receieved in 4
+6180 receieved in 4
+3100 receieved in 4
+8133 receieved in 4
+5408 receieved in 4
+8090 receieved in 4
+6988 receieved in 4
+2073 receieved in 4
+7246 receieved in 4
+4 thinks it is the leader! with term... 2
+4718 receieved in 4
+8827 receieved in 4
+8492 receieved in 4
+5505 receieved in 4
+3 is leader!!!!
+7518 receieved in 3
+1195 receieved in 4
+3900 receieved in 3
+9218 receieved in 4
+7055 receieved in 3
+465 receieved in 4
+1295 receieved in 3
+8308 receieved in 4
+8968 receieved in 3
+2567 receieved in 4
+5658 receieved in 3
+3920 receieved in 4
+8897 receieved in 3
+157 receieved in 4
+6858 receieved in 3
+1833 receieved in 4
+heartbeat checked in 0
+4 thinks it is the leader! with term... 2
+3367 receieved in 3
+4 thinks it is the leader! with term... 2
+3252 receieved in 4
+6404 receieved in 3
+7320 receieved in 4
+9586 receieved in 3
+4221 receieved in 4
+6612 receieved in 3
+2289 receieved in 4
+4098 receieved in 3
+8585 receieved in 4
+4904 receieved in 3
+2057 receieved in 4
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+2221 receieved in 3
+2647 receieved in 4
+149 receieved in 3
+2493 receieved in 4
+3991 receieved in 4
+4 thinks it is the leader! with term... 2
+1619 receieved in 4
+2651 receieved in 4
+4 thinks it is the leader! with term... 2
+3707 receieved in 4
+4175 receieved in 4
+1089 receieved in 4
+6149 receieved in 4
+5501 receieved in 4
+8027 receieved in 4
+9529 receieved in 4
+534 receieved in 4
+heartbeat checked in 0
+4 thinks it is the leader! with term... 2
+1246 receieved in 4
+8991 receieved in 4
+1484 receieved in 4
+299 receieved in 4
+6187 receieved in 4
+heartbeat checked in 2
+4 thinks it is the leader! with term... 2
+2105 receieved in 4
+9830 receieved in 4
+1190 receieved in 4
+8192 receieved in 4
+605 receieved in 4
+9782 receieved in 4
+3886 receieved in 4
+3060 receieved in 4
+4 thinks it is the leader! with term... 2
+6848 receieved in 4
+52 receieved in 4
+6447 receieved in 4
+4730 receieved in 4
+4862 receieved in 4
+4 thinks it is the leader! with term... 2
+8465 receieved in 4
+1594 receieved in 4
+1962 receieved in 4
+9464 receieved in 4
+2879 receieved in 4
+8088 receieved in 4
+5632 receieved in 4
+2353 receieved in 4
+4743 receieved in 4
+6163 receieved in 4
+4 thinks it is the leader! with term... 2
+7499 receieved in 4
+6534 receieved in 4
+4 thinks it is the leader! with term... 2
+heartbeat checked in 0
+3716 receieved in 4
+4 thinks it is the leader! with term... 2
+4950 receieved in 4
+3364 receieved in 4
+5191 receieved in 4
+4785 receieved in 4
+9538 receieved in 4
+3009 receieved in 4
+9771 receieved in 4
+4 thinks it is the leader! with term... 2
+4178 receieved in 4
+103 receieved in 4
+3388 receieved in 4
+9182 receieved in 4
+5409 receieved in 4
+9794 receieved in 4
+4 thinks it is the leader! with term... 2
+4048 receieved in 4
+2516 receieved in 4
+8643 receieved in 4
+3143 receieved in 4
+1841 receieved in 4
+8780 receieved in 4
+1224 receieved in 4
+6998 receieved in 4
+6790 receieved in 4
+813 receieved in 4
+4 thinks it is the leader! with term... 2
+5174 receieved in 4
+2013 receieved in 4
+4 thinks it is the leader! with term... 2
+9001 receieved in 4
+5223 receieved in 4
+4 thinks it is the leader! with term... 2
+1063 receieved in 4
+3538 receieved in 4
+5156 receieved in 4
+6079 receieved in 4
+708 receieved in 4
+4769 receieved in 4
+745 receieved in 4
+heartbeat checked in 2
+2909 receieved in 4
+8534 receieved in 4
+3989 receieved in 4
+8627 receieved in 4
+4 thinks it is the leader! with term... 2
+1840 receieved in 4
+6020 receieved in 4
+7904 receieved in 4
+877 receieved in 4
+5852 receieved in 4
+269 receieved in 4
+4 thinks it is the leader! with term... 2
+1685 receieved in 4
+1532 receieved in 4
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+6887 receieved in 4
+6804 receieved in 4
+2312 receieved in 4
+5786 receieved in 4
+7771 receieved in 4
+1142 receieved in 4
+7940 receieved in 4
+1287 receieved in 4
+16 receieved in 4
+5640 receieved in 4
+1238 receieved in 4
+5313 receieved in 4
+4 thinks it is the leader! with term... 2
+6668 receieved in 4
+1 is leader!!!!
+2145 receieved in 1
+6674 receieved in 4
+2230 receieved in 1
+4 thinks it is the leader! with term... 2
+7886 receieved in 4
+1123 receieved in 1
+8202 receieved in 4
+9223 receieved in 1
+5074 receieved in 4
+2662 receieved in 4
+4 thinks it is the leader! with term... 2
+876 receieved in 4
+2114 receieved in 4
+8140 receieved in 4
+4 thinks it is the leader! with term... 2
+9104 receieved in 4
+2212 receieved in 4
+231 receieved in 4
+4 thinks it is the leader! with term... 2
+2285 receieved in 4
+4 thinks it is the leader! with term... 2
+1121 receieved in 4
+9562 receieved in 4
+2704 receieved in 4
+4132 receieved in 4
+2077 receieved in 4
+heartbeat checked in 2
+1957 receieved in 4
+4080 receieved in 4
+1649 receieved in 4
+5614 receieved in 4
+4 thinks it is the leader! with term... 2
+4094 receieved in 4
+1600 receieved in 4
+4 thinks it is the leader! with term... 2
+heartbeat checked in 0
+3880 receieved in 4
+4 thinks it is the leader! with term... 2
+918 receieved in 4
+9786 receieved in 4
+5700 receieved in 4
+9892 receieved in 4
+7833 receieved in 4
+3263 receieved in 4
+2273 receieved in 4
+3949 receieved in 4
+2645 receieved in 4
+489 receieved in 4
+267 receieved in 4
+7439 receieved in 4
+4 thinks it is the leader! with term... 2
+2541 receieved in 4
+4778 receieved in 4
+1506 receieved in 4
+4731 receieved in 4
+657 receieved in 4
+8157 receieved in 4
+6357 receieved in 4
+5726 receieved in 4
+4495 receieved in 4
+9146 receieved in 4
+9934 receieved in 4
+4156 receieved in 4
+149 receieved in 4
+4026 receieved in 4
+5260 receieved in 4
+614 receieved in 4
+4 thinks it is the leader! with term... 2
+6042 receieved in 4
+4947 receieved in 4
+850 receieved in 4
+839 receieved in 4
+4153 receieved in 4
+5689 receieved in 4
+8524 receieved in 4
+4025 receieved in 4
+2893 receieved in 4
+9514 receieved in 4
+2123 receieved in 4
+5916 receieved in 4
+9192 receieved in 4
+9763 receieved in 4
+466 receieved in 4
+4 thinks it is the leader! with term... 2
+2420 receieved in 4
+856 receieved in 4
+7590 receieved in 4
+8452 receieved in 4
+8469 receieved in 4
+4824 receieved in 4
+5666 receieved in 4
+6172 receieved in 4
+3173 receieved in 4
+5455 receieved in 4
+9977 receieved in 4
+4 thinks it is the leader! with term... 2
+8773 receieved in 4
+2953 receieved in 4
+3814 receieved in 4
+5106 receieved in 4
+522 receieved in 4
+9700 receieved in 4
+7041 receieved in 4
+1539 receieved in 4
+8051 receieved in 4
+6546 receieved in 4
+9914 receieved in 4
+1277 receieved in 4
+7622 receieved in 4
+2872 receieved in 4
+7546 receieved in 4
+9960 receieved in 4
+1832 receieved in 4
+9053 receieved in 4
+6995 receieved in 4
+2821 receieved in 4
+2361 receieved in 4
+6113 receieved in 4
+361 receieved in 4
+4 thinks it is the leader! with term... 2
+7766 receieved in 4
+8917 receieved in 4
+8398 receieved in 4
+3828 receieved in 4
+5073 receieved in 4
+2890 receieved in 4
+5724 receieved in 4
+7538 receieved in 4
+9939 receieved in 4
+6943 receieved in 4
+8092 receieved in 4
+10 receieved in 4
+5446 receieved in 4
+44 receieved in 4
+2355 receieved in 4
+8770 receieved in 4
+7412 receieved in 4
+4 thinks it is the leader! with term... 2
+8037 receieved in 4
+5716 receieved in 4
+4 thinks it is the leader! with term... 2
+1229 receieved in 4
+7613 receieved in 4
+2537 receieved in 4
+3819 receieved in 4
+4 thinks it is the leader! with term... 2
+306 receieved in 4
+7879 receieved in 4
+1774 receieved in 4
+2859 receieved in 4
+5431 receieved in 4
+8567 receieved in 4
+4040 receieved in 4
+8476 receieved in 4
+3911 receieved in 4
+3019 receieved in 4
+4281 receieved in 4
+7801 receieved in 4
+528 receieved in 4
+7805 receieved in 4
+2901 receieved in 4
+8980 receieved in 4
+3803 receieved in 4
+4 thinks it is the leader! with term... 2
+1386 receieved in 4
+7054 receieved in 4
+8107 receieved in 4
+4147 receieved in 4
+6407 receieved in 4
+963 receieved in 4
+4 thinks it is the leader! with term... 2
+8369 receieved in 4
+6987 receieved in 4
+6484 receieved in 4
+5999 receieved in 4
+2413 receieved in 4
+6085 receieved in 4
+2056 receieved in 4
+9177 receieved in 4
+6186 receieved in 4
+4 thinks it is the leader! with term... 2
+4935 receieved in 4
+893 receieved in 4
+4 thinks it is the leader! with term... 2
+7009 receieved in 4
+2702 receieved in 4
+1256 receieved in 4
+5272 receieved in 4
+6837 receieved in 4
+8998 receieved in 4
+4 thinks it is the leader! with term... 2
+7863 receieved in 4
+1655 receieved in 4
+6390 receieved in 4
+5347 receieved in 4
+1288 receieved in 4
+1871 receieved in 4
+3585 receieved in 4
+7936 receieved in 4
+7991 receieved in 4
+1281 receieved in 4
+4 thinks it is the leader! with term... 2
+3866 receieved in 4
+6079 receieved in 4
+5841 receieved in 4
+4 thinks it is the leader! with term... 2
+1803 receieved in 4
+4 thinks it is the leader! with term... 2
+7482 receieved in 4
+5864 receieved in 4
+5582 receieved in 4
+8057 receieved in 4
+9502 receieved in 4
+3370 receieved in 4
+5427 receieved in 4
+5273 receieved in 4
+3082 receieved in 4
+9527 receieved in 4
+8426 receieved in 4
+4 thinks it is the leader! with term... 2
+3 is leader!!!!
+1291 receieved in 3
+4 thinks it is the leader! with term... 2
+3612 receieved in 4
+4 thinks it is the leader! with term... 2
+7283 receieved in 4
+3359 receieved in 4
+3582 receieved in 4
+4 thinks it is the leader! with term... 2
+7793 receieved in 4
+691 receieved in 4
+7947 receieved in 4
+7706 receieved in 4
+4448 receieved in 4
+4837 receieved in 4
+923 receieved in 4
+4716 receieved in 4
+6737 receieved in 4
+4 thinks it is the leader! with term... 2
+7590 receieved in 4
+1053 receieved in 4
+7777 receieved in 4
+733 receieved in 4
+7100 receieved in 4
+6155 receieved in 4
+8493 receieved in 4
+3446 receieved in 4
+4435 receieved in 4
+4 thinks it is the leader! with term... 2
+9632 receieved in 4
+5575 receieved in 4
+3987 receieved in 4
+8566 receieved in 4
+4341 receieved in 4
+896 receieved in 4
+3121 receieved in 4
+1479 receieved in 4
+9109 receieved in 4
+3433 receieved in 4
+6722 receieved in 4
+9358 receieved in 4
+7322 receieved in 4
+4 thinks it is the leader! with term... 2
+7500 receieved in 4
+6015 receieved in 4
+3237 receieved in 4
+heartbeat checked in 0
+9986 receieved in 4
+7101 receieved in 4
+9175 receieved in 4
+5873 receieved in 4
+5958 receieved in 4
+2974 receieved in 4
+6728 receieved in 4
+2836 receieved in 4
+8280 receieved in 4
+4277 receieved in 4
+5392 receieved in 4
+2430 receieved in 4
+3 is leader!!!!
+4 thinks it is the leader! with term... 2
+6853 receieved in 3
+3023 receieved in 4
+1208 receieved in 3
+5948 receieved in 4
+4995 receieved in 3
+1162 receieved in 4
+4851 receieved in 3
+4503 receieved in 4
+6703 receieved in 3
+9019 receieved in 4
+9645 receieved in 3
+4615 receieved in 4
+1756 receieved in 3
+9745 receieved in 4
+1714 receieved in 3
+1222 receieved in 4
+3786 receieved in 3
+7080 receieved in 4
+1477 receieved in 3
+9952 receieved in 4
+7207 receieved in 3
+5816 receieved in 4
+3487 receieved in 3
+1266 receieved in 4
+6046 receieved in 3
+8993 receieved in 4
+1977 receieved in 3
+8503 receieved in 4
+9226 receieved in 3
+5706 receieved in 4
+4 thinks it is the leader! with term... 2
+4037 receieved in 3
+5429 receieved in 4
+9008 receieved in 3
+7056 receieved in 4
+5541 receieved in 3
+7799 receieved in 4
+2353 receieved in 3
+25 receieved in 4
+3859 receieved in 3
+6198 receieved in 4
+9758 receieved in 3
+1727 receieved in 4
+1844 receieved in 3
+3378 receieved in 4
+7336 receieved in 3
+8213 receieved in 4
+8616 receieved in 3
+9485 receieved in 4
+1561 receieved in 3
+1729 receieved in 4
+4608 receieved in 3
+4 thinks it is the leader! with term... 2
+391 receieved in 4
+heartbeat checked in 2
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+2080 receieved in 4
+353 receieved in 4
+8904 receieved in 4
+2051 receieved in 4
+4588 receieved in 4
+4 thinks it is the leader! with term... 2
+4534 receieved in 4
+3639 receieved in 4
+1280 receieved in 4
+2572 receieved in 4
+4294 receieved in 4
+7511 receieved in 4
+4143 receieved in 4
+8007 receieved in 4
+4509 receieved in 4
+5822 receieved in 4
+3441 receieved in 4
+7841 receieved in 4
+4264 receieved in 4
+3564 receieved in 4
+5233 receieved in 4
+9674 receieved in 4
+8492 receieved in 4
+2671 receieved in 4
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+5014 receieved in 4
+4 thinks it is the leader! with term... 2
+4 thinks it is the leader! with term... 2
+4747 receieved in 4
+8660 receieved in 4
+4926 receieved in 4
+3387 receieved in 4
+6619 receieved in 4
+1008 receieved in 4
+heartbeat checked in 0
+9211 receieved in 4
+1094 receieved in 4
+4 thinks it is the leader! with term... 2
+755 receieved in 4
+213 receieved in 4
+2102 receieved in 4
+7033 receieved in 4
+1474 receieved in 4
+4 thinks it is the leader! with term... 2
+8482 receieved in 4
+1384 receieved in 4
+5475 receieved in 4
+1353 receieved in 4
+heartbeat checked in 2
+4 thinks it is the leader! with term... 2
+6030 receieved in 4
+744 receieved in 4
+1609 receieved in 4
+9770 receieved in 4
+3789 receieved in 4
+4 thinks it is the leader! with term... 2
+3365 receieved in 4
+5293 receieved in 4
+4 thinks it is the leader! with term... 2
+6839 receieved in 4
+3335 receieved in 4
+7826 receieved in 4
+8374 receieved in 4
+5224 receieved in 4
+false success from 1
+1 is leader!!!!
+heartbeat checked in 4
+heartbeat checked in 0
+heartbeat checked in 2
+heartbeat checked in 3
+heartbeat checked in 0
+heartbeat checked in 2
+3 is leader!!!!
+5224 receieved in 3
+3 is leader!!!!
+3 is leader!!!!
+5224 receieved in 3
+heartbeat checked in 0
+heartbeat checked in 2
+heartbeat checked in 1
+heartbeat checked in 4
+3 is leader!!!!
+5224 receieved in 3
+3 is leader!!!!
+3 thinks it is the leader! with term... 36
+false success from 0
+false success from 1
+false success from 2
+heartbeat checked in 0
+heartbeat checked in 2
+heartbeat checked in 1
+false success from 4
+3 thinks it is the leader! with term... 36
+21:44:21.054752 one(5224) failed to reach agreement
+exit status 1
+FAIL	cs350/raft	178.228s
